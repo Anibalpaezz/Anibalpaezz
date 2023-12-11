@@ -5,7 +5,7 @@
 - 📫 How to reach me anibapaezgallego@gmail.com
 
 - Lenguajes
-  ![image](https://github.com/Anibalpaezz/Anibalpaezz/assets/124251900/372122c5-ea76-4231-9670-904c0e746a06)
+  ![html-5](https://github.com/Anibalpaezz/Anibalpaezz/assets/124251900/7293862e-4747-40a9-bd46-9485b0d5d5ee)
 
 
 <!---
