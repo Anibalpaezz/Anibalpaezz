@@ -1,0 +1,9904 @@
+discard
+execute
+execute
+discard
+add Tarea_5 20240927
+delete 20240927
+discard
+discard
+execute
+add Tarea_10 20240326
+execute
+delete 20240326
+add Tarea_13 20240518
+delete 20240518
+add Tarea_15 20250517
+move 20250517 20250902
+execute
+discard
+move 20250902 20251107
+delete 20251107
+discard
+execute
+discard
+add Tarea_27 20250927
+add Tarea_28 20251021
+move 20251021 20240909
+delete 20240909
+add Tarea_31 20241202
+delete 20250927
+delete 20241202
+discard
+add Tarea_36 20250106
+delete 20250106
+execute
+execute
+discard
+add Tarea_44 20251008
+add Tarea_45 20240109
+execute
+discard
+delete 20240109
+discard
+execute
+delete 20251008
+add Tarea_54 20240813
+delete 20240813
+execute
+execute
+add Tarea_60 20250602
+move 20250602 20240315
+move 20240315 20251223
+delete 20251223
+discard
+add Tarea_66 20250112
+execute
+add Tarea_68 20250904
+move 20250904 20250826
+execute
+add Tarea_71 20250102
+move 20250826 20241219
+discard
+add Tarea_74 20250117
+move 20250102 20250915
+discard
+add Tarea_77 20250916
+discard
+execute
+execute
+move 20241219 20240627
+execute
+execute
+delete 20240627
+move 20250915 20250219
+discard
+delete 20250916
+execute
+execute
+discard
+execute
+discard
+delete 20250117
+add Tarea_94 20251209
+move 20251209 20240419
+execute
+discard
+delete 20250219
+move 20250112 20250702
+delete 20250702
+delete 20240419
+add Tarea_102 20250417
+execute
+add Tarea_104 20250725
+add Tarea_105 20240409
+move 20240409 20240813
+add Tarea_107 20250613
+delete 20250613
+add Tarea_109 20250723
+discard
+add Tarea_111 20250528
+delete 20250723
+move 20240813 20240323
+delete 20250417
+move 20250528 20250410
+execute
+discard
+add Tarea_118 20250119
+execute
+discard
+delete 20250119
+delete 20250410
+execute
+delete 20240323
+discard
+add Tarea_126 20251105
+discard
+delete 20251105
+discard
+move 20250725 20250510
+move 20250510 20250415
+execute
+discard
+delete 20250415
+add Tarea_136 20250213
+delete 20250213
+discard
+execute
+add Tarea_144 20240428
+execute
+discard
+execute
+delete 20240428
+discard
+execute
+add Tarea_152 20250718
+execute
+delete 20250718
+add Tarea_155 20241107
+discard
+execute
+add Tarea_158 20251207
+add Tarea_159 20250708
+add Tarea_160 20250112
+add Tarea_161 20250319
+delete 20250112
+delete 20250708
+move 20251207 20250213
+discard
+delete 20241107
+delete 20250319
+delete 20250213
+discard
+execute
+execute
+discard
+add Tarea_178 20240726
+delete 20240726
+add Tarea_182 20250407
+add Tarea_183 20240619
+delete 20240619
+discard
+discard
+add Tarea_187 20240322
+move 20250407 20240617
+discard
+execute
+add Tarea_191 20251202
+add Tarea_192 20250826
+move 20240617 20241124
+execute
+discard
+execute
+discard
+discard
+delete 20240322
+add Tarea_200 20251208
+delete 20250826
+discard
+discard
+execute
+delete 20251208
+add Tarea_206 20240502
+move 20241124 20240707
+discard
+move 20251202 20250611
+execute
+move 20240707 20241211
+move 20240502 20251225
+delete 20251225
+discard
+add Tarea_215 20240401
+add Tarea_216 20240808
+add Tarea_217 20250812
+add Tarea_218 20241220
+execute
+delete 20250611
+execute
+delete 20241220
+delete 20250812
+delete 20240401
+discard
+add Tarea_226 20250814
+discard
+discard
+discard
+move 20241211 20241015
+delete 20241015
+move 20250814 20240818
+execute
+add Tarea_234 20240401
+execute
+discard
+discard
+add Tarea_238 20240319
+discard
+execute
+discard
+delete 20240808
+execute
+add Tarea_244 20240407
+delete 20240319
+discard
+discard
+add Tarea_248 20240313
+move 20240313 20250514
+add Tarea_250 20240519
+move 20240519 20240228
+add Tarea_252 20250722
+add Tarea_253 20240421
+execute
+delete 20240421
+discard
+move 20240228 20251216
+discard
+execute
+execute
+move 20250722 20240307
+move 20240401 20241108
+delete 20240307
+execute
+delete 20250514
+delete 20240818
+delete 20241108
+add Tarea_268 20251116
+discard
+delete 20251216
+move 20240407 20240325
+move 20240325 20251106
+add Tarea_273 20240406
+move 20240406 20251222
+execute
+execute
+move 20251116 20251228
+delete 20251228
+add Tarea_279 20240504
+delete 20240504
+delete 20251222
+move 20251106 20250426
+discard
+discard
+add Tarea_285 20250510
+move 20250510 20250721
+delete 20250426
+discard
+add Tarea_289 20250717
+move 20250717 20240428
+add Tarea_291 20241103
+execute
+add Tarea_293 20250815
+execute
+add Tarea_295 20240918
+discard
+add Tarea_297 20240925
+move 20241103 20250609
+move 20240925 20250220
+add Tarea_300 20240106
+execute
+delete 20250609
+add Tarea_303 20250417
+execute
+execute
+execute
+discard
+execute
+execute
+add Tarea_310 20250613
+delete 20240106
+add Tarea_312 20250412
+discard
+move 20250721 20250411
+delete 20250613
+execute
+discard
+delete 20250411
+add Tarea_319 20250713
+discard
+delete 20250417
+discard
+add Tarea_323 20250817
+add Tarea_324 20240319
+discard
+discard
+execute
+execute
+add Tarea_329 20240403
+discard
+move 20250412 20250621
+delete 20250220
+discard
+delete 20250815
+move 20250621 20250226
+delete 20240918
+execute
+move 20250817 20240315
+add Tarea_339 20250608
+add Tarea_340 20240526
+move 20240403 20251102
+delete 20240315
+discard
+delete 20240319
+move 20250713 20250215
+delete 20240526
+execute
+discard
+execute
+move 20251102 20251122
+delete 20250608
+add Tarea_352 20250623
+move 20240428 20250825
+move 20251122 20240816
+move 20250215 20240218
+move 20250226 20240320
+move 20250623 20251206
+execute
+delete 20240816
+delete 20240218
+discard
+delete 20251206
+discard
+delete 20250825
+move 20240320 20240925
+discard
+discard
+discard
+move 20240925 20251214
+execute
+delete 20251214
+add Tarea_373 20251012
+move 20251012 20250328
+add Tarea_375 20240127
+discard
+add Tarea_377 20240727
+move 20250328 20251205
+move 20251205 20250527
+execute
+discard
+add Tarea_382 20250626
+execute
+discard
+move 20240727 20250221
+execute
+add Tarea_387 20240724
+move 20240724 20250109
+discard
+move 20250109 20240720
+execute
+add Tarea_392 20251219
+execute
+discard
+discard
+discard
+discard
+execute
+move 20250527 20250207
+execute
+move 20250626 20240101
+discard
+discard
+delete 20240101
+add Tarea_405 20240228
+move 20250207 20250228
+execute
+execute
+delete 20250228
+delete 20251219
+execute
+add Tarea_412 20250618
+move 20240720 20251026
+add Tarea_414 20251228
+discard
+execute
+execute
+move 20240228 20240804
+delete 20250618
+add Tarea_420 20250509
+discard
+discard
+execute
+add Tarea_424 20250524
+move 20251228 20241114
+add Tarea_426 20250809
+execute
+add Tarea_428 20240206
+delete 20250509
+discard
+move 20250221 20250818
+add Tarea_432 20240126
+add Tarea_433 20240406
+add Tarea_434 20240822
+delete 20240127
+move 20240406 20250518
+discard
+add Tarea_438 20251012
+discard
+execute
+add Tarea_441 20250228
+add Tarea_442 20240821
+execute
+delete 20251026
+add Tarea_445 20250128
+move 20240126 20250117
+delete 20241114
+delete 20240206
+move 20240804 20250612
+delete 20250612
+add Tarea_451 20250910
+delete 20250228
+execute
+move 20250518 20250606
+move 20251012 20240902
+execute
+move 20250117 20240906
+discard
+execute
+move 20240902 20250304
+add Tarea_461 20251117
+move 20240821 20241226
+discard
+execute
+delete 20250818
+add Tarea_466 20250714
+delete 20251117
+execute
+discard
+delete 20250128
+execute
+discard
+delete 20250606
+discard
+move 20250809 20250603
+execute
+execute
+move 20241226 20240615
+move 20250304 20240105
+add Tarea_480 20241008
+move 20250910 20240813
+discard
+delete 20240615
+execute
+add Tarea_485 20240403
+move 20240403 20240825
+execute
+execute
+discard
+delete 20241008
+move 20250524 20250222
+execute
+execute
+delete 20250222
+execute
+delete 20240813
+execute
+execute
+delete 20240825
+add Tarea_500 20240624
+move 20240906 20240114
+move 20250603 20250924
+execute
+delete 20250714
+delete 20240624
+execute
+delete 20240822
+execute
+move 20240105 20241001
+delete 20240114
+move 20241001 20251103
+add Tarea_512 20251024
+add Tarea_513 20240413
+discard
+add Tarea_515 20240807
+add Tarea_516 20241016
+add Tarea_517 20240802
+delete 20251024
+discard
+add Tarea_520 20250423
+add Tarea_521 20241122
+delete 20251103
+move 20250423 20240710
+add Tarea_524 20251003
+add Tarea_525 20240228
+move 20240413 20240423
+add Tarea_527 20240521
+add Tarea_528 20241113
+delete 20241016
+move 20240228 20240120
+move 20241122 20250211
+add Tarea_532 20240321
+execute
+add Tarea_534 20241128
+move 20240120 20240819
+execute
+discard
+discard
+delete 20250211
+delete 20251003
+execute
+delete 20240321
+discard
+delete 20240807
+delete 20241113
+add Tarea_546 20250413
+move 20241128 20250206
+add Tarea_548 20250420
+execute
+delete 20250420
+move 20240521 20240118
+move 20240819 20250703
+execute
+add Tarea_554 20251023
+move 20240118 20240403
+execute
+execute
+move 20240802 20240123
+move 20250703 20250406
+execute
+move 20251023 20241002
+add Tarea_562 20240927
+discard
+discard
+add Tarea_565 20240713
+delete 20240403
+delete 20240710
+discard
+delete 20250406
+move 20240713 20240117
+move 20250924 20250803
+add Tarea_572 20250916
+discard
+discard
+move 20240927 20251028
+move 20241002 20240424
+discard
+execute
+delete 20250413
+delete 20240123
+discard
+execute
+add Tarea_583 20241127
+discard
+execute
+move 20250206 20240626
+delete 20241127
+move 20250803 20240918
+delete 20240918
+add Tarea_590 20251114
+delete 20240626
+add Tarea_592 20251226
+execute
+add Tarea_594 20240221
+discard
+execute
+delete 20240424
+execute
+discard
+discard
+move 20251028 20250310
+add Tarea_602 20241001
+delete 20241001
+execute
+add Tarea_605 20240627
+execute
+delete 20251114
+add Tarea_608 20240213
+discard
+delete 20250310
+execute
+add Tarea_612 20240204
+discard
+add Tarea_614 20240317
+execute
+move 20240204 20250219
+delete 20250219
+add Tarea_618 20240316
+discard
+execute
+execute
+execute
+execute
+discard
+add Tarea_625 20241108
+move 20240117 20250618
+execute
+add Tarea_628 20241119
+add Tarea_629 20250721
+delete 20241119
+move 20240213 20250417
+delete 20250618
+discard
+move 20250916 20250224
+delete 20251226
+move 20241108 20240122
+move 20240221 20251024
+discard
+discard
+move 20240122 20240610
+discard
+add Tarea_642 20240519
+discard
+discard
+move 20240423 20250118
+discard
+delete 20240627
+move 20251024 20250416
+execute
+execute
+discard
+delete 20250224
+delete 20250416
+delete 20250721
+add Tarea_655 20240625
+execute
+add Tarea_657 20240801
+move 20240316 20250319
+delete 20240519
+discard
+move 20250118 20240917
+add Tarea_662 20240514
+add Tarea_663 20251009
+execute
+delete 20240317
+discard
+add Tarea_667 20250828
+delete 20240917
+add Tarea_669 20240416
+execute
+add Tarea_671 20240117
+add Tarea_672 20240821
+add Tarea_673 20240601
+execute
+add Tarea_675 20240112
+add Tarea_676 20250817
+add Tarea_677 20240725
+delete 20240112
+add Tarea_679 20250305
+add Tarea_680 20250604
+delete 20240610
+delete 20240416
+add Tarea_683 20250719
+discard
+execute
+delete 20240117
+delete 20240601
+execute
+move 20250719 20251027
+discard
+discard
+move 20250817 20251104
+delete 20250828
+discard
+delete 20240821
+add Tarea_696 20251013
+move 20240625 20240202
+add Tarea_698 20251105
+discard
+move 20250305 20250510
+move 20251027 20250313
+move 20240514 20240902
+execute
+add Tarea_704 20240119
+delete 20251104
+move 20240801 20241001
+delete 20251009
+move 20250319 20250204
+execute
+add Tarea_710 20251203
+add Tarea_711 20240117
+move 20251203 20240821
+add Tarea_713 20240712
+execute
+delete 20240117
+add Tarea_716 20241121
+delete 20250510
+execute
+add Tarea_719 20250501
+add Tarea_720 20250610
+add Tarea_721 20240212
+add Tarea_722 20240317
+add Tarea_723 20251218
+add Tarea_724 20240405
+discard
+delete 20240212
+move 20240119 20251221
+execute
+move 20250604 20250724
+add Tarea_730 20241006
+discard
+execute
+move 20240317 20240117
+move 20240405 20240811
+move 20250313 20250202
+discard
+add Tarea_737 20251107
+discard
+add Tarea_739 20250602
+delete 20240202
+move 20251105 20241212
+move 20240712 20240926
+move 20250202 20251121
+discard
+execute
+execute
+execute
+add Tarea_748 20250710
+execute
+add Tarea_750 20250719
+add Tarea_751 20251124
+move 20241001 20240319
+add Tarea_753 20250826
+move 20241006 20250816
+delete 20251124
+add Tarea_756 20251212
+discard
+move 20250816 20240717
+discard
+execute
+add Tarea_761 20240823
+execute
+delete 20240902
+add Tarea_764 20240122
+add Tarea_765 20240701
+execute
+delete 20250610
+delete 20251221
+move 20240926 20250713
+move 20241121 20250703
+move 20250826 20240124
+delete 20250719
+move 20250417 20251214
+move 20240122 20240115
+execute
+add Tarea_776 20240318
+discard
+discard
+execute
+discard
+add Tarea_781 20251208
+move 20240124 20250627
+execute
+execute
+add Tarea_785 20240924
+delete 20250703
+delete 20250713
+delete 20251212
+discard
+discard
+move 20251218 20250319
+discard
+add Tarea_793 20250705
+execute
+move 20240821 20250423
+delete 20240701
+delete 20250627
+execute
+add Tarea_799 20241117
+delete 20250724
+move 20240924 20240923
+execute
+execute
+move 20240115 20250412
+delete 20250602
+execute
+discard
+execute
+add Tarea_809 20240321
+add Tarea_810 20250515
+delete 20240923
+move 20250423 20240323
+delete 20250204
+add Tarea_814 20240918
+add Tarea_815 20250221
+add Tarea_816 20251011
+add Tarea_817 20250323
+delete 20240117
+delete 20240318
+delete 20251208
+execute
+discard
+discard
+execute
+execute
+add Tarea_826 20250906
+delete 20250705
+add Tarea_828 20250112
+add Tarea_829 20241008
+discard
+add Tarea_831 20250325
+delete 20250325
+add Tarea_833 20250620
+discard
+discard
+delete 20250710
+discard
+delete 20240811
+delete 20251121
+delete 20240321
+move 20250323 20250109
+delete 20240323
+add Tarea_843 20241216
+add Tarea_844 20250615
+move 20251214 20250706
+delete 20250412
+add Tarea_847 20240309
+add Tarea_848 20240413
+delete 20240309
+discard
+execute
+add Tarea_852 20241109
+discard
+execute
+add Tarea_855 20250925
+move 20241008 20251021
+move 20240823 20240417
+discard
+delete 20241216
+discard
+discard
+add Tarea_862 20240313
+move 20241212 20250214
+discard
+move 20250109 20240312
+move 20250906 20251224
+move 20240918 20250414
+delete 20250515
+add Tarea_869 20240406
+discard
+add Tarea_871 20250920
+execute
+delete 20240319
+execute
+discard
+delete 20251021
+move 20240725 20251225
+discard
+execute
+discard
+move 20250706 20250222
+delete 20240312
+add Tarea_883 20250922
+execute
+move 20251013 20241201
+delete 20251107
+execute
+delete 20250221
+discard
+move 20240313 20250406
+delete 20250920
+delete 20250319
+add Tarea_893 20241206
+execute
+move 20240406 20250321
+execute
+move 20250321 20251111
+add Tarea_898 20240313
+move 20250620 20240702
+execute
+add Tarea_901 20250827
+add Tarea_902 20240726
+discard
+discard
+add Tarea_905 20250416
+discard
+execute
+discard
+add Tarea_909 20240911
+discard
+move 20240717 20251127
+add Tarea_912 20240617
+delete 20241201
+delete 20250827
+move 20240726 20251010
+discard
+move 20250501 20250606
+add Tarea_918 20240825
+delete 20241109
+delete 20241206
+add Tarea_921 20250103
+discard
+execute
+move 20250416 20241009
+add Tarea_925 20250512
+execute
+delete 20251010
+move 20250512 20251002
+delete 20250922
+move 20240313 20241017
+move 20240417 20251213
+delete 20250925
+move 20240825 20250903
+discard
+move 20251213 20250203
+delete 20250406
+execute
+execute
+discard
+add Tarea_940 20240520
+execute
+move 20251002 20240228
+discard
+delete 20251224
+discard
+move 20251111 20240215
+move 20240413 20250722
+delete 20250903
+move 20250112 20250322
+discard
+execute
+delete 20241017
+delete 20250722
+add Tarea_954 20250505
+add Tarea_955 20250115
+discard
+discard
+execute
+delete 20240702
+execute
+execute
+add Tarea_962 20240216
+delete 20240215
+move 20240228 20250502
+move 20251011 20240818
+move 20240520 20240908
+execute
+move 20241009 20250118
+execute
+move 20240617 20250628
+add Tarea_971 20240416
+add Tarea_972 20240411
+delete 20240216
+add Tarea_974 20250624
+delete 20250322
+execute
+move 20250628 20251224
+discard
+delete 20250222
+discard
+discard
+execute
+add Tarea_983 20250309
+add Tarea_984 20250305
+execute
+discard
+delete 20240911
+move 20251225 20241025
+delete 20250115
+add Tarea_990 20240315
+delete 20240818
+discard
+delete 20250624
+move 20240315 20250524
+move 20240416 20241219
+execute
+discard
+execute
+add Tarea_999 20240922
+move 20241219 20250621
+add Tarea_1001 20250117
+add Tarea_1002 20241126
+add Tarea_1003 20240915
+execute
+discard
+delete 20241025
+delete 20250621
+move 20241126 20241211
+delete 20250103
+add Tarea_1010 20241009
+add Tarea_1011 20240711
+execute
+move 20240922 20250805
+add Tarea_1014 20240407
+delete 20241117
+execute
+delete 20251127
+move 20250305 20250521
+add Tarea_1019 20250618
+move 20240908 20240207
+discard
+delete 20250524
+delete 20250805
+delete 20251224
+add Tarea_1025 20250408
+discard
+move 20240711 20250503
+move 20250615 20240917
+execute
+delete 20250408
+execute
+add Tarea_1032 20250705
+execute
+execute
+delete 20241009
+delete 20240915
+delete 20250606
+execute
+discard
+execute
+execute
+discard
+add Tarea_1043 20240502
+discard
+delete 20250502
+discard
+discard
+move 20240207 20241110
+move 20250505 20241114
+add Tarea_1050 20240625
+discard
+add Tarea_1052 20250806
+delete 20240502
+add Tarea_1054 20250104
+move 20250104 20251219
+delete 20240407
+delete 20250117
+delete 20240411
+add Tarea_1059 20240127
+delete 20250503
+discard
+move 20240127 20251223
+move 20250806 20240616
+execute
+move 20251223 20251025
+delete 20240616
+delete 20250203
+discard
+move 20250618 20251207
+execute
+add Tarea_1071 20250317
+delete 20240625
+discard
+execute
+delete 20241110
+discard
+move 20251207 20250528
+delete 20251025
+delete 20250528
+discard
+discard
+delete 20251219
+add Tarea_1083 20251123
+add Tarea_1084 20241208
+delete 20241114
+add Tarea_1086 20250218
+execute
+add Tarea_1088 20240609
+add Tarea_1089 20241120
+execute
+add Tarea_1091 20240304
+execute
+discard
+execute
+add Tarea_1095 20240817
+discard
+execute
+move 20240609 20251023
+delete 20250309
+discard
+delete 20250214
+add Tarea_1102 20250219
+discard
+add Tarea_1104 20240627
+execute
+execute
+add Tarea_1107 20251120
+add Tarea_1108 20250228
+add Tarea_1109 20250519
+move 20240817 20250815
+delete 20250414
+move 20251023 20250812
+move 20240627 20250620
+execute
+discard
+delete 20250812
+delete 20250519
+delete 20241211
+delete 20240304
+add Tarea_1120 20251205
+execute
+move 20250705 20241201
+add Tarea_1123 20250210
+discard
+execute
+add Tarea_1126 20240325
+move 20251120 20240211
+discard
+execute
+delete 20240325
+discard
+discard
+delete 20251123
+move 20250815 20241218
+add Tarea_1135 20240113
+delete 20241208
+move 20240211 20240403
+delete 20251205
+discard
+discard
+add Tarea_1141 20241104
+move 20250521 20250115
+discard
+delete 20241201
+add Tarea_1145 20250920
+delete 20240113
+execute
+delete 20250219
+delete 20250228
+move 20250317 20251126
+delete 20250118
+execute
+move 20251126 20240326
+add Tarea_1154 20240825
+discard
+delete 20250115
+discard
+move 20250210 20240306
+add Tarea_1159 20240119
+add Tarea_1160 20241018
+add Tarea_1161 20250904
+add Tarea_1162 20240522
+move 20240403 20240822
+add Tarea_1164 20240426
+discard
+discard
+delete 20241218
+add Tarea_1168 20240806
+delete 20240522
+add Tarea_1170 20241021
+execute
+discard
+delete 20240119
+add Tarea_1174 20240210
+move 20240306 20240717
+delete 20250920
+add Tarea_1177 20240409
+discard
+move 20240210 20250609
+discard
+move 20240917 20240521
+move 20240717 20250103
+discard
+move 20241021 20250207
+execute
+add Tarea_1186 20240605
+delete 20240326
+execute
+delete 20250620
+delete 20241018
+execute
+move 20250207 20240919
+discard
+execute
+execute
+delete 20241104
+add Tarea_1197 20250527
+delete 20240806
+discard
+add Tarea_1200 20251106
+discard
+delete 20240822
+delete 20240426
+discard
+execute
+delete 20240521
+add Tarea_1207 20251101
+execute
+discard
+discard
+execute
+add Tarea_1212 20250601
+discard
+execute
+add Tarea_1215 20251217
+execute
+add Tarea_1217 20251111
+execute
+add Tarea_1219 20240701
+delete 20241120
+execute
+discard
+add Tarea_1223 20251126
+discard
+add Tarea_1225 20251117
+execute
+add Tarea_1227 20240828
+add Tarea_1228 20240103
+execute
+delete 20250904
+discard
+move 20251101 20251004
+execute
+move 20240605 20251015
+delete 20240701
+delete 20250218
+delete 20251111
+discard
+delete 20240828
+execute
+delete 20251117
+move 20251217 20251014
+discard
+execute
+move 20251014 20250912
+discard
+move 20250527 20251218
+execute
+delete 20251106
+delete 20250103
+execute
+discard
+discard
+discard
+delete 20250601
+discard
+add Tarea_1257 20241008
+discard
+discard
+execute
+move 20251004 20250711
+move 20240919 20240723
+delete 20240825
+execute
+move 20251126 20241028
+execute
+execute
+add Tarea_1268 20250223
+delete 20251218
+execute
+delete 20241028
+discard
+add Tarea_1273 20250228
+add Tarea_1274 20250323
+discard
+delete 20250711
+discard
+delete 20240409
+execute
+discard
+execute
+discard
+discard
+delete 20250912
+delete 20240103
+move 20250323 20250914
+move 20251015 20241116
+delete 20250228
+add Tarea_1289 20250307
+execute
+execute
+move 20250914 20241017
+execute
+add Tarea_1294 20250318
+discard
+move 20241017 20250618
+discard
+delete 20241116
+discard
+add Tarea_1300 20240720
+move 20250307 20250413
+delete 20250413
+execute
+delete 20250223
+add Tarea_1305 20251121
+move 20241008 20240628
+move 20240720 20240228
+discard
+move 20240628 20250905
+execute
+discard
+delete 20240723
+delete 20240228
+discard
+discard
+discard
+execute
+discard
+execute
+delete 20250609
+delete 20251121
+delete 20250318
+move 20250618 20241010
+discard
+delete 20250905
+move 20241010 20240621
+execute
+discard
+discard
+execute
+add Tarea_1331 20241025
+move 20240621 20250224
+add Tarea_1333 20250705
+add Tarea_1334 20250710
+execute
+add Tarea_1336 20250605
+move 20250605 20240901
+discard
+execute
+execute
+add Tarea_1341 20250316
+move 20250710 20251008
+delete 20250705
+add Tarea_1344 20251117
+add Tarea_1345 20240421
+delete 20241025
+move 20251117 20250214
+delete 20250224
+execute
+delete 20251008
+execute
+discard
+delete 20250316
+execute
+delete 20240421
+add Tarea_1356 20250919
+move 20250919 20250805
+execute
+add Tarea_1359 20241202
+delete 20240901
+move 20250805 20250301
+add Tarea_1362 20240511
+move 20241202 20250608
+delete 20250608
+add Tarea_1365 20251017
+move 20250214 20251204
+add Tarea_1367 20250315
+delete 20250301
+delete 20251017
+execute
+add Tarea_1371 20240205
+move 20240511 20250716
+add Tarea_1373 20240117
+execute
+discard
+discard
+add Tarea_1377 20250907
+delete 20240117
+discard
+add Tarea_1380 20240919
+add Tarea_1381 20250110
+delete 20250110
+move 20251204 20250725
+delete 20250315
+add Tarea_1385 20240203
+execute
+execute
+delete 20250907
+delete 20240203
+discard
+move 20240205 20250304
+add Tarea_1392 20251119
+execute
+add Tarea_1394 20241120
+delete 20250304
+move 20251119 20241202
+add Tarea_1397 20240209
+move 20240919 20250701
+move 20250701 20240622
+execute
+execute
+move 20250725 20250327
+execute
+add Tarea_1404 20251207
+move 20251207 20240910
+discard
+execute
+add Tarea_1408 20241219
+move 20240209 20240625
+execute
+delete 20240625
+delete 20241219
+move 20241202 20241222
+add Tarea_1414 20250301
+execute
+add Tarea_1416 20251006
+delete 20241120
+execute
+move 20250327 20250428
+discard
+add Tarea_1421 20250720
+discard
+delete 20250301
+delete 20240622
+execute
+delete 20250716
+execute
+delete 20240910
+add Tarea_1429 20251219
+move 20241222 20240624
+execute
+execute
+execute
+add Tarea_1434 20240409
+add Tarea_1435 20251120
+discard
+execute
+move 20240409 20240207
+discard
+delete 20240207
+add Tarea_1441 20250517
+execute
+discard
+add Tarea_1444 20240804
+delete 20251006
+delete 20251219
+execute
+add Tarea_1448 20240915
+add Tarea_1449 20240103
+execute
+move 20240915 20240806
+delete 20250517
+move 20251120 20251008
+move 20250428 20251015
+execute
+discard
+execute
+discard
+delete 20240804
+execute
+add Tarea_1461 20250125
+move 20240103 20240628
+delete 20240806
+move 20240624 20251017
+delete 20251015
+discard
+discard
+execute
+delete 20250720
+execute
+add Tarea_1471 20250513
+discard
+delete 20240628
+delete 20250513
+delete 20251008
+delete 20250125
+discard
+add Tarea_1478 20240921
+delete 20251017
+move 20240921 20240716
+execute
+discard
+discard
+delete 20240716
+discard
+execute
+discard
+discard
+execute
+add Tarea_1493 20241219
+move 20241219 20240508
+execute
+delete 20240508
+add Tarea_1497 20240519
+delete 20240519
+add Tarea_1499 20251228
+discard
+discard
+discard
+add Tarea_1503 20240511
+discard
+add Tarea_1505 20240501
+delete 20251228
+move 20240511 20241123
+move 20240501 20240422
+discard
+add Tarea_1510 20251228
+add Tarea_1511 20250307
+move 20251228 20240607
+discard
+discard
+discard
+delete 20241123
+move 20250307 20251215
+add Tarea_1518 20251016
+execute
+delete 20251215
+execute
+delete 20240422
+execute
+execute
+discard
+move 20240607 20241025
+add Tarea_1527 20240313
+execute
+execute
+execute
+move 20240313 20250109
+execute
+delete 20250109
+move 20251016 20251225
+discard
+add Tarea_1536 20240609
+discard
+move 20240609 20251114
+delete 20251114
+execute
+delete 20241025
+move 20251225 20250620
+move 20250620 20240625
+move 20240625 20250826
+move 20250826 20250909
+move 20250909 20250325
+move 20250325 20250913
+discard
+move 20250913 20251007
+discard
+discard
+delete 20251007
+add Tarea_1555 20250619
+move 20250619 20250120
+add Tarea_1557 20250901
+move 20250120 20250606
+delete 20250606
+execute
+delete 20250901
+execute
+execute
+discard
+discard
+discard
+discard
+add Tarea_1574 20250818
+discard
+execute
+delete 20250818
+execute
+add Tarea_1580 20250106
+delete 20250106
+add Tarea_1585 20241026
+move 20241026 20251023
+delete 20251023
+execute
+discard
+discard
+discard
+execute
+discard
+execute
+execute
+discard
+add Tarea_1608 20250711
+delete 20250711
+add Tarea_1612 20240618
+add Tarea_1613 20240910
+move 20240618 20250408
+add Tarea_1615 20250903
+move 20250408 20250125
+discard
+delete 20250903
+move 20240910 20250215
+discard
+execute
+delete 20250125
+execute
+delete 20250215
+discard
+discard
+discard
+add Tarea_1633 20250409
+discard
+discard
+add Tarea_1636 20240311
+delete 20250409
+move 20240311 20250214
+add Tarea_1639 20240524
+add Tarea_1640 20250821
+discard
+execute
+discard
+add Tarea_1644 20240405
+add Tarea_1645 20250109
+add Tarea_1646 20251209
+move 20240405 20250904
+delete 20250109
+add Tarea_1649 20250912
+execute
+delete 20250821
+delete 20250214
+add Tarea_1653 20251012
+execute
+move 20250904 20250204
+discard
+discard
+delete 20240524
+delete 20251012
+add Tarea_1660 20240709
+discard
+add Tarea_1662 20241111
+execute
+add Tarea_1664 20250924
+add Tarea_1665 20241014
+delete 20251209
+move 20241111 20240305
+discard
+add Tarea_1669 20251210
+add Tarea_1670 20240415
+move 20241014 20240618
+discard
+discard
+add Tarea_1674 20250913
+discard
+discard
+delete 20240618
+delete 20250924
+add Tarea_1679 20251213
+delete 20250913
+move 20240305 20240826
+discard
+discard
+move 20251210 20250426
+execute
+move 20240415 20250523
+execute
+delete 20240826
+move 20250426 20250808
+add Tarea_1690 20250706
+add Tarea_1691 20241009
+move 20241009 20250518
+execute
+discard
+execute
+execute
+discard
+add Tarea_1698 20250125
+execute
+execute
+execute
+discard
+delete 20250523
+execute
+add Tarea_1705 20250422
+delete 20250912
+discard
+add Tarea_1708 20240124
+move 20250125 20251115
+move 20240124 20240217
+move 20250518 20240727
+execute
+execute
+discard
+execute
+execute
+delete 20240217
+execute
+add Tarea_1719 20251127
+execute
+add Tarea_1721 20250725
+delete 20251127
+discard
+discard
+move 20251115 20251122
+execute
+delete 20250725
+move 20250808 20241107
+delete 20251213
+move 20240727 20251009
+discard
+move 20250706 20241004
+execute
+add Tarea_1734 20240507
+execute
+delete 20241004
+execute
+delete 20241107
+execute
+add Tarea_1740 20250125
+move 20250422 20251113
+add Tarea_1742 20250912
+move 20250125 20250623
+move 20240709 20240407
+move 20250623 20250712
+discard
+add Tarea_1747 20250501
+move 20251122 20250121
+move 20240507 20250528
+move 20251113 20240805
+move 20250912 20250621
+move 20250204 20240423
+add Tarea_1753 20240809
+move 20250528 20250715
+discard
+move 20250121 20250216
+execute
+execute
+move 20250712 20250526
+discard
+move 20240407 20240117
+execute
+discard
+add Tarea_1764 20240414
+delete 20240809
+execute
+move 20250501 20240218
+discard
+add Tarea_1769 20241109
+move 20250216 20240102
+delete 20250621
+discard
+delete 20240423
+delete 20250526
+discard
+add Tarea_1776 20240713
+add Tarea_1777 20251213
+move 20250715 20250827
+execute
+execute
+execute
+discard
+discard
+add Tarea_1784 20240725
+move 20240117 20250805
+move 20251213 20240611
+add Tarea_1787 20250723
+execute
+delete 20241109
+delete 20240414
+move 20240725 20240614
+execute
+add Tarea_1793 20250321
+execute
+discard
+discard
+execute
+add Tarea_1798 20250720
+discard
+move 20250720 20250306
+discard
+delete 20240805
+delete 20240102
+delete 20240713
+discard
+add Tarea_1806 20251016
+discard
+move 20250827 20251015
+discard
+execute
+discard
+execute
+delete 20250321
+add Tarea_1814 20250327
+execute
+add Tarea_1816 20250702
+delete 20250327
+add Tarea_1818 20250308
+move 20250805 20240316
+add Tarea_1820 20250217
+add Tarea_1821 20250124
+add Tarea_1822 20250721
+move 20250124 20241219
+discard
+delete 20241219
+move 20250721 20240118
+execute
+add Tarea_1828 20250222
+execute
+execute
+delete 20251009
+execute
+execute
+add Tarea_1834 20240503
+discard
+move 20250308 20250111
+delete 20240614
+add Tarea_1838 20240807
+move 20250111 20240527
+execute
+move 20251015 20250627
+execute
+add Tarea_1843 20241212
+delete 20250702
+execute
+add Tarea_1846 20250811
+add Tarea_1847 20240404
+move 20240218 20250307
+move 20250723 20240112
+execute
+add Tarea_1851 20241204
+discard
+discard
+execute
+add Tarea_1855 20250818
+add Tarea_1856 20240824
+discard
+delete 20250307
+execute
+delete 20240527
+move 20240118 20240403
+add Tarea_1862 20240117
+add Tarea_1863 20240524
+add Tarea_1864 20250812
+execute
+execute
+add Tarea_1867 20241206
+delete 20240403
+add Tarea_1869 20250605
+discard
+discard
+execute
+execute
+move 20250605 20251009
+add Tarea_1875 20250705
+delete 20240807
+move 20240503 20250305
+delete 20251016
+discard
+add Tarea_1880 20250405
+discard
+move 20240404 20250314
+add Tarea_1883 20240114
+discard
+add Tarea_1885 20241228
+delete 20250627
+delete 20250405
+execute
+add Tarea_1889 20251012
+add Tarea_1890 20240912
+discard
+move 20241228 20250708
+execute
+execute
+add Tarea_1895 20250507
+execute
+move 20251009 20250815
+move 20240912 20240906
+move 20250811 20240621
+add Tarea_1900 20250714
+delete 20241206
+execute
+discard
+move 20240114 20251110
+execute
+discard
+move 20240316 20250224
+delete 20250305
+move 20250306 20250626
+discard
+move 20250217 20250901
+move 20250901 20251211
+add Tarea_1913 20250809
+delete 20250224
+execute
+delete 20250222
+add Tarea_1917 20251108
+discard
+discard
+add Tarea_1920 20250521
+execute
+move 20250521 20250723
+execute
+move 20241204 20250215
+discard
+execute
+execute
+add Tarea_1928 20250321
+execute
+add Tarea_1930 20240503
+discard
+discard
+delete 20240906
+move 20240117 20250403
+move 20250403 20250225
+discard
+discard
+add Tarea_1938 20250301
+discard
+execute
+delete 20251108
+add Tarea_1942 20250523
+add Tarea_1943 20241207
+execute
+discard
+delete 20250809
+discard
+add Tarea_1948 20241206
+delete 20240112
+discard
+add Tarea_1951 20250109
+execute
+delete 20250818
+add Tarea_1954 20240509
+execute
+move 20250708 20251117
+discard
+execute
+execute
+add Tarea_1960 20240302
+move 20240302 20240204
+discard
+move 20251211 20240617
+execute
+move 20250815 20241213
+move 20250705 20241025
+discard
+move 20250723 20250227
+discard
+execute
+discard
+add Tarea_1972 20250723
+add Tarea_1973 20250622
+discard
+execute
+add Tarea_1976 20240928
+execute
+delete 20250523
+discard
+delete 20250314
+move 20240204 20240317
+discard
+move 20250109 20250722
+execute
+add Tarea_1985 20241124
+add Tarea_1986 20251225
+delete 20250321
+delete 20251225
+add Tarea_1989 20251217
+add Tarea_1990 20240416
+execute
+move 20240317 20240724
+execute
+delete 20240524
+move 20240416 20240608
+execute
+execute
+add Tarea_1998 20251215
+delete 20250225
+move 20250622 20240309
+add Tarea_2001 20240917
+discard
+delete 20250714
+execute
+delete 20240621
+execute
+move 20250722 20240209
+add Tarea_2008 20250223
+discard
+add Tarea_2010 20251112
+move 20240617 20240820
+add Tarea_2012 20240315
+discard
+execute
+move 20240209 20240909
+execute
+move 20240315 20240405
+discard
+execute
+discard
+delete 20250723
+discard
+execute
+move 20240509 20240803
+execute
+execute
+execute
+delete 20251217
+delete 20240824
+move 20241206 20251002
+discard
+execute
+delete 20250215
+move 20241025 20240414
+add Tarea_2035 20241208
+execute
+delete 20240909
+delete 20241208
+discard
+discard
+discard
+execute
+execute
+add Tarea_2044 20250628
+move 20240917 20251225
+discard
+discard
+delete 20250301
+move 20251110 20240710
+delete 20251012
+add Tarea_2051 20250127
+move 20251225 20240923
+delete 20251112
+delete 20251117
+add Tarea_2055 20250809
+discard
+add Tarea_2057 20240704
+move 20240928 20240206
+add Tarea_2059 20250715
+add Tarea_2060 20251021
+add Tarea_2061 20250824
+execute
+execute
+add Tarea_2064 20240118
+delete 20240710
+discard
+add Tarea_2067 20250604
+execute
+discard
+add Tarea_2070 20250821
+move 20240503 20240222
+add Tarea_2072 20241102
+discard
+move 20250824 20250608
+add Tarea_2075 20250804
+move 20250812 20240512
+discard
+delete 20250821
+move 20250804 20240506
+add Tarea_2080 20250319
+discard
+delete 20240820
+discard
+discard
+discard
+move 20251021 20250916
+move 20250127 20251226
+add Tarea_2088 20240718
+discard
+add Tarea_2090 20250828
+add Tarea_2091 20241005
+add Tarea_2092 20250807
+add Tarea_2093 20250907
+move 20240414 20251223
+add Tarea_2095 20240412
+add Tarea_2096 20240801
+move 20241207 20240818
+discard
+execute
+move 20251215 20250315
+discard
+delete 20250507
+add Tarea_2103 20250508
+delete 20250628
+move 20250608 20250822
+add Tarea_2106 20241024
+move 20241005 20240526
+execute
+discard
+add Tarea_2110 20251013
+add Tarea_2111 20250516
+add Tarea_2112 20240524
+delete 20251226
+discard
+add Tarea_2115 20240228
+move 20250508 20250302
+move 20240803 20240924
+add Tarea_2118 20251012
+delete 20240818
+add Tarea_2120 20240920
+discard
+execute
+execute
+execute
+add Tarea_2125 20251019
+move 20251019 20240218
+execute
+add Tarea_2128 20240626
+delete 20240801
+execute
+discard
+delete 20240524
+discard
+discard
+execute
+add Tarea_2136 20240225
+add Tarea_2137 20240320
+discard
+discard
+discard
+move 20250319 20240925
+execute
+discard
+discard
+move 20250822 20251021
+discard
+delete 20251012
+discard
+move 20240412 20250525
+move 20240925 20250226
+execute
+discard
+discard
+add Tarea_2154 20240402
+discard
+delete 20240225
+delete 20240626
+execute
+move 20240402 20240710
+discard
+discard
+delete 20241102
+discard
+delete 20251021
+add Tarea_2165 20250502
+delete 20240512
+delete 20240405
+execute
+move 20251013 20250407
+execute
+execute
+delete 20250302
+add Tarea_2173 20240728
+discard
+delete 20240704
+discard
+discard
+discard
+move 20241212 20241020
+discard
+move 20240228 20251017
+execute
+delete 20250226
+move 20241020 20240810
+delete 20250502
+execute
+delete 20240218
+move 20250715 20240714
+execute
+move 20240506 20241017
+add Tarea_2191 20251227
+delete 20240724
+move 20240611 20251117
+move 20250626 20251120
+add Tarea_2195 20240612
+discard
+move 20240714 20250921
+delete 20241024
+discard
+execute
+add Tarea_2201 20240921
+move 20250907 20240812
+add Tarea_2203 20241205
+execute
+delete 20250916
+delete 20240526
+discard
+move 20251227 20240304
+delete 20241205
+delete 20250407
+move 20240920 20251115
+execute
+delete 20250525
+delete 20251117
+delete 20240309
+move 20251223 20250912
+move 20240206 20251004
+delete 20240924
+move 20240728 20240101
+delete 20240608
+delete 20250807
+move 20240101 20250127
+delete 20250127
+discard
+execute
+execute
+execute
+execute
+add Tarea_2229 20250220
+delete 20250912
+add Tarea_2231 20241113
+move 20241124 20250202
+move 20241213 20240422
+move 20250220 20250702
+move 20250315 20250423
+add Tarea_2236 20250307
+delete 20240320
+delete 20251115
+delete 20250202
+execute
+move 20250921 20250311
+add Tarea_2242 20250627
+execute
+add Tarea_2244 20250317
+move 20250702 20240305
+discard
+move 20250828 20240510
+execute
+execute
+discard
+discard
+execute
+discard
+move 20240422 20241121
+delete 20250317
+move 20250809 20240919
+move 20241113 20240618
+execute
+move 20250307 20241010
+move 20240812 20240625
+move 20240618 20250811
+add Tarea_2262 20241222
+discard
+move 20250311 20250922
+execute
+delete 20250423
+delete 20241121
+delete 20240222
+move 20240118 20251211
+discard
+add Tarea_2271 20250225
+add Tarea_2272 20250118
+execute
+delete 20240612
+discard
+move 20250223 20241205
+move 20250922 20240307
+execute
+discard
+execute
+discard
+add Tarea_2282 20250106
+discard
+execute
+execute
+delete 20240810
+add Tarea_2287 20240102
+delete 20251211
+delete 20250811
+add Tarea_2290 20240605
+delete 20251017
+add Tarea_2292 20240701
+execute
+execute
+execute
+move 20241017 20240805
+discard
+execute
+discard
+delete 20240805
+discard
+delete 20241205
+move 20251004 20251228
+execute
+add Tarea_2305 20241216
+delete 20240307
+discard
+move 20250516 20250824
+move 20250604 20250708
+move 20240710 20251208
+discard
+add Tarea_2312 20250914
+execute
+execute
+move 20240923 20250925
+delete 20250914
+delete 20251002
+discard
+move 20240919 20250421
+delete 20250118
+execute
+add Tarea_2322 20251213
+discard
+discard
+add Tarea_2325 20241128
+delete 20241216
+delete 20240718
+delete 20250824
+move 20240510 20240906
+discard
+execute
+discard
+add Tarea_2333 20240207
+add Tarea_2334 20251110
+move 20240102 20250707
+add Tarea_2336 20240508
+add Tarea_2337 20250107
+add Tarea_2338 20250528
+move 20251110 20240612
+move 20250707 20240914
+move 20250528 20250518
+execute
+discard
+add Tarea_2344 20240907
+add Tarea_2345 20250207
+discard
+discard
+execute
+execute
+discard
+add Tarea_2351 20240412
+execute
+delete 20240906
+move 20250421 20241223
+delete 20250708
+delete 20250227
+discard
+discard
+discard
+delete 20241222
+discard
+delete 20240625
+discard
+execute
+delete 20251208
+execute
+discard
+discard
+add Tarea_2369 20250528
+execute
+delete 20250528
+discard
+move 20240914 20240204
+add Tarea_2374 20240917
+discard
+discard
+discard
+execute
+add Tarea_2379 20240403
+add Tarea_2380 20250719
+discard
+execute
+add Tarea_2383 20250826
+move 20240304 20250306
+execute
+add Tarea_2386 20250322
+move 20240305 20240904
+delete 20240508
+delete 20240204
+discard
+move 20240921 20240127
+add Tarea_2392 20250524
+add Tarea_2393 20240312
+delete 20240907
+discard
+discard
+execute
+delete 20240612
+discard
+discard
+move 20241223 20250308
+add Tarea_2402 20251103
+add Tarea_2403 20240514
+execute
+move 20251103 20240404
+add Tarea_2406 20240828
+add Tarea_2407 20250917
+execute
+delete 20240917
+discard
+delete 20251228
+discard
+discard
+move 20250306 20240912
+execute
+delete 20240207
+add Tarea_2417 20251205
+discard
+add Tarea_2419 20250728
+discard
+add Tarea_2421 20250903
+discard
+delete 20250308
+add Tarea_2424 20250313
+add Tarea_2425 20241114
+discard
+add Tarea_2427 20250519
+add Tarea_2428 20251013
+execute
+add Tarea_2430 20250528
+execute
+discard
+add Tarea_2433 20241019
+delete 20250903
+add Tarea_2435 20241112
+add Tarea_2436 20241015
+execute
+move 20241114 20250221
+add Tarea_2439 20240601
+delete 20240404
+discard
+move 20250528 20251028
+add Tarea_2443 20240215
+execute
+move 20250322 20250306
+discard
+delete 20250106
+execute
+discard
+execute
+discard
+execute
+add Tarea_2453 20251007
+delete 20250313
+add Tarea_2455 20240504
+add Tarea_2456 20250923
+delete 20251120
+delete 20240701
+add Tarea_2459 20251206
+execute
+execute
+move 20250524 20250307
+discard
+add Tarea_2464 20240520
+discard
+move 20251213 20240207
+execute
+delete 20250107
+execute
+discard
+execute
+move 20240828 20250414
+delete 20250925
+add Tarea_2474 20250220
+add Tarea_2475 20251122
+move 20240504 20241013
+add Tarea_2477 20240121
+add Tarea_2478 20250814
+execute
+delete 20240207
+discard
+execute
+discard
+execute
+add Tarea_2485 20240905
+execute
+execute
+add Tarea_2488 20240226
+delete 20251122
+add Tarea_2490 20250401
+discard
+add Tarea_2492 20240211
+discard
+delete 20250917
+move 20240211 20240724
+execute
+execute
+execute
+move 20240520 20240405
+execute
+execute
+execute
+execute
+delete 20240121
+move 20250518 20240421
+add Tarea_2506 20250312
+discard
+discard
+execute
+move 20240312 20250723
+execute
+delete 20241013
+delete 20250225
+add Tarea_2514 20241007
+execute
+delete 20240226
+discard
+add Tarea_2518 20240411
+add Tarea_2519 20251103
+add Tarea_2520 20250515
+execute
+add Tarea_2522 20241114
+delete 20250414
+discard
+execute
+move 20240405 20240508
+move 20241007 20250820
+move 20240403 20240320
+execute
+delete 20240724
+discard
+execute
+execute
+add Tarea_2534 20240609
+add Tarea_2535 20240814
+delete 20251206
+execute
+add Tarea_2538 20240913
+delete 20240609
+execute
+discard
+execute
+discard
+delete 20240514
+add Tarea_2545 20241109
+add Tarea_2546 20241118
+move 20240904 20241217
+add Tarea_2548 20250225
+delete 20240127
+move 20240913 20251011
+discard
+execute
+discard
+add Tarea_2554 20240811
+execute
+move 20241217 20240801
+move 20240421 20240614
+move 20240605 20250805
+execute
+delete 20240601
+discard
+discard
+delete 20250820
+discard
+delete 20250401
+delete 20251013
+add Tarea_2567 20241219
+execute
+delete 20241114
+add Tarea_2570 20241017
+delete 20241019
+discard
+move 20250207 20240916
+execute
+move 20241017 20240317
+discard
+add Tarea_2577 20240802
+discard
+discard
+execute
+delete 20240614
+execute
+add Tarea_2583 20240205
+delete 20240801
+move 20250519 20250111
+delete 20251205
+move 20251028 20241215
+move 20241215 20240712
+discard
+execute
+delete 20250220
+discard
+move 20250814 20250625
+move 20241109 20250605
+execute
+discard
+delete 20240215
+add Tarea_2598 20250911
+add Tarea_2599 20240527
+add Tarea_2600 20250525
+discard
+move 20251007 20250810
+execute
+delete 20250605
+execute
+execute
+add Tarea_2607 20240725
+discard
+discard
+add Tarea_2610 20250811
+discard
+discard
+discard
+delete 20241118
+delete 20241010
+add Tarea_2616 20240103
+discard
+add Tarea_2618 20240513
+add Tarea_2619 20251113
+add Tarea_2620 20241206
+add Tarea_2621 20240316
+execute
+delete 20240712
+delete 20250723
+discard
+delete 20250225
+add Tarea_2627 20240125
+discard
+discard
+move 20250111 20240507
+delete 20250515
+move 20250923 20241021
+execute
+move 20250221 20251122
+move 20250805 20240226
+delete 20240912
+move 20240320 20250702
+discard
+execute
+discard
+move 20250811 20240504
+discard
+execute
+discard
+discard
+move 20240125 20241027
+move 20250810 20250908
+move 20250908 20240605
+move 20240316 20250727
+move 20251103 20241110
+add Tarea_2651 20240224
+discard
+execute
+add Tarea_2654 20250119
+add Tarea_2655 20240203
+discard
+delete 20240605
+move 20240205 20250201
+execute
+add Tarea_2660 20251208
+discard
+delete 20250719
+execute
+move 20241219 20251001
+delete 20250312
+execute
+move 20241206 20250522
+execute
+add Tarea_2669 20241109
+add Tarea_2670 20250819
+add Tarea_2671 20240915
+add Tarea_2672 20250126
+add Tarea_2673 20241012
+discard
+delete 20240508
+execute
+add Tarea_2677 20250901
+move 20241012 20240523
+discard
+delete 20240411
+delete 20240317
+delete 20240811
+delete 20251001
+delete 20240504
+execute
+discard
+delete 20240513
+add Tarea_2688 20251116
+execute
+discard
+delete 20250126
+move 20241021 20251008
+execute
+discard
+move 20250911 20240908
+move 20240103 20240501
+move 20250522 20240818
+discard
+discard
+add Tarea_2700 20240505
+execute
+move 20240505 20240807
+execute
+delete 20240412
+discard
+execute
+move 20240807 20250717
+move 20251113 20240328
+execute
+move 20251208 20241225
+move 20240527 20240811
+execute
+add Tarea_2713 20240920
+delete 20240725
+delete 20241110
+move 20240916 20250512
+move 20241225 20251119
+execute
+move 20250627 20250621
+add Tarea_2720 20240714
+move 20240328 20240407
+move 20251011 20240225
+move 20251122 20240315
+execute
+discard
+execute
+execute
+add Tarea_2728 20250321
+execute
+move 20240225 20250104
+add Tarea_2731 20240307
+delete 20240714
+delete 20250717
+add Tarea_2734 20240907
+discard
+delete 20241128
+add Tarea_2737 20250111
+add Tarea_2738 20251205
+execute
+discard
+move 20240307 20240304
+delete 20240907
+add Tarea_2743 20240815
+add Tarea_2744 20240608
+add Tarea_2745 20240114
+execute
+execute
+delete 20250621
+delete 20250625
+execute
+discard
+move 20250728 20250723
+discard
+move 20240818 20241114
+execute
+delete 20240802
+discard
+delete 20240501
+discard
+discard
+discard
+move 20240608 20240426
+discard
+discard
+execute
+add Tarea_2766 20250917
+execute
+execute
+add Tarea_2769 20240627
+discard
+move 20250306 20240213
+add Tarea_2772 20240313
+discard
+discard
+execute
+discard
+add Tarea_2777 20250701
+execute
+move 20240811 20240716
+add Tarea_2780 20250711
+move 20240920 20250907
+add Tarea_2782 20240225
+add Tarea_2783 20251224
+delete 20240915
+discard
+move 20240716 20250618
+move 20250826 20240802
+move 20240407 20251016
+delete 20250525
+add Tarea_2790 20251218
+move 20250907 20240705
+execute
+move 20240802 20251211
+discard
+execute
+discard
+delete 20250819
+add Tarea_2798 20250325
+discard
+delete 20240426
+execute
+delete 20240705
+discard
+delete 20240114
+move 20250723 20241104
+discard
+discard
+delete 20250104
+add Tarea_2809 20250821
+execute
+discard
+add Tarea_2812 20240506
+move 20240213 20250408
+delete 20240224
+move 20240226 20241208
+delete 20250901
+discard
+execute
+delete 20241208
+execute
+move 20250618 20250503
+add Tarea_2822 20250109
+delete 20240507
+add Tarea_2824 20251212
+delete 20250408
+execute
+execute
+delete 20240905
+discard
+delete 20250111
+delete 20251212
+delete 20250702
+discard
+execute
+discard
+delete 20240313
+execute
+discard
+execute
+move 20241112 20250628
+discard
+add Tarea_2842 20250402
+move 20240814 20250509
+add Tarea_2844 20240509
+move 20250321 20240819
+discard
+delete 20251211
+discard
+add Tarea_2849 20250424
+delete 20250402
+delete 20251205
+discard
+delete 20240304
+execute
+delete 20250711
+execute
+discard
+move 20250307 20240604
+execute
+execute
+discard
+add Tarea_2862 20251225
+add Tarea_2863 20250925
+add Tarea_2864 20250608
+discard
+move 20250628 20240818
+discard
+discard
+move 20251224 20250911
+discard
+execute
+delete 20251119
+delete 20241114
+add Tarea_2874 20251117
+discard
+execute
+discard
+move 20240225 20251115
+add Tarea_2879 20240413
+execute
+delete 20250911
+discard
+add Tarea_2883 20251028
+add Tarea_2884 20241111
+discard
+discard
+add Tarea_2887 20250507
+add Tarea_2888 20241120
+delete 20251116
+move 20241111 20250111
+move 20250925 20240407
+add Tarea_2892 20250604
+execute
+move 20240413 20240317
+discard
+delete 20250604
+execute
+add Tarea_2898 20250216
+move 20250119 20251202
+move 20241104 20250107
+discard
+add Tarea_2902 20250321
+execute
+discard
+discard
+add Tarea_2906 20250510
+execute
+execute
+execute
+delete 20251117
+execute
+add Tarea_2912 20250104
+delete 20251008
+discard
+add Tarea_2915 20250301
+add Tarea_2916 20250603
+discard
+delete 20250503
+move 20240818 20250213
+add Tarea_2920 20240117
+discard
+add Tarea_2922 20251001
+move 20250213 20251125
+execute
+add Tarea_2925 20240522
+discard
+discard
+add Tarea_2928 20250711
+discard
+move 20250424 20250817
+move 20250509 20250213
+delete 20240506
+add Tarea_2933 20240603
+execute
+add Tarea_2935 20240518
+move 20240509 20241214
+delete 20250512
+delete 20250325
+discard
+execute
+execute
+execute
+discard
+delete 20250701
+execute
+move 20250507 20250311
+move 20241214 20250324
+discard
+delete 20250109
+execute
+delete 20251225
+add Tarea_2952 20250926
+discard
+move 20250104 20240124
+execute
+move 20251115 20240928
+add Tarea_2957 20240427
+add Tarea_2958 20241216
+execute
+execute
+execute
+discard
+discard
+delete 20241015
+move 20240317 20240403
+add Tarea_2966 20241028
+add Tarea_2967 20250110
+move 20240815 20250106
+delete 20250201
+move 20250727 20250322
+discard
+add Tarea_2972 20251104
+add Tarea_2973 20250524
+delete 20250603
+delete 20250111
+delete 20241028
+execute
+delete 20240603
+add Tarea_2979 20251126
+move 20251016 20240312
+discard
+delete 20250510
+move 20240315 20240119
+move 20240119 20240226
+delete 20250608
+delete 20251104
+discard
+discard
+add Tarea_2989 20250401
+discard
+move 20241027 20251104
+delete 20250917
+delete 20251202
+discard
+move 20250817 20250521
+add Tarea_2996 20250211
+add Tarea_2997 20250825
+execute
+discard
+execute
+move 20250821 20240905
+move 20251218 20250528
+add Tarea_3003 20250223
+discard
+add Tarea_3005 20240711
+discard
+delete 20240908
+add Tarea_3008 20240628
+move 20240117 20240408
+add Tarea_3010 20250323
+discard
+discard
+discard
+move 20240819 20250119
+add Tarea_3015 20250706
+move 20250528 20240719
+discard
+execute
+execute
+move 20250223 20250528
+add Tarea_3021 20240513
+add Tarea_3022 20240425
+add Tarea_3023 20251103
+delete 20251028
+move 20250119 20240324
+execute
+move 20240905 20240715
+move 20240522 20240622
+execute
+delete 20240203
+execute
+add Tarea_3032 20250204
+move 20240604 20250209
+move 20251001 20240801
+delete 20250107
+add Tarea_3036 20240722
+execute
+execute
+delete 20250521
+discard
+add Tarea_3041 20240614
+add Tarea_3042 20250206
+move 20241216 20251015
+delete 20240614
+discard
+execute
+delete 20240928
+delete 20250825
+add Tarea_3049 20241111
+add Tarea_3050 20240328
+add Tarea_3051 20240101
+discard
+delete 20240628
+delete 20251104
+move 20250204 20241216
+execute
+discard
+discard
+discard
+move 20240312 20250413
+delete 20250711
+execute
+add Tarea_3063 20250109
+execute
+discard
+execute
+discard
+add Tarea_3068 20250217
+discard
+delete 20250926
+delete 20250216
+delete 20240622
+add Tarea_3073 20250802
+delete 20251126
+add Tarea_3075 20250303
+discard
+delete 20241111
+discard
+discard
+discard
+execute
+discard
+execute
+add Tarea_3084 20241021
+delete 20240403
+delete 20250324
+move 20251015 20240117
+add Tarea_3088 20250619
+delete 20240513
+delete 20250211
+add Tarea_3091 20240807
+delete 20241021
+add Tarea_3093 20240819
+add Tarea_3094 20250108
+move 20250413 20240409
+move 20240409 20250125
+execute
+discard
+add Tarea_3099 20241122
+add Tarea_3100 20240927
+execute
+move 20240226 20250312
+delete 20241109
+move 20240711 20251005
+move 20240425 20250616
+discard
+add Tarea_3107 20250711
+execute
+move 20240328 20240128
+add Tarea_3110 20250617
+delete 20250619
+delete 20250206
+discard
+discard
+move 20240408 20240201
+add Tarea_3116 20241018
+discard
+delete 20241120
+discard
+delete 20240201
+execute
+execute
+execute
+add Tarea_3124 20240724
+add Tarea_3125 20250515
+add Tarea_3126 20240502
+move 20250401 20250124
+add Tarea_3128 20240309
+discard
+move 20250109 20240325
+discard
+delete 20240407
+execute
+move 20240325 20251004
+discard
+delete 20250528
+execute
+add Tarea_3138 20240219
+add Tarea_3139 20251018
+delete 20251103
+discard
+add Tarea_3142 20241001
+execute
+discard
+discard
+add Tarea_3146 20240706
+add Tarea_3147 20241007
+move 20250209 20250602
+delete 20240719
+add Tarea_3150 20240620
+delete 20241216
+discard
+add Tarea_3153 20250523
+execute
+execute
+execute
+move 20240807 20240710
+move 20250602 20240617
+execute
+discard
+delete 20251004
+delete 20250311
+execute
+move 20240309 20241218
+discard
+add Tarea_3166 20240926
+add Tarea_3167 20250826
+add Tarea_3168 20251128
+discard
+discard
+move 20250125 20240817
+delete 20240926
+add Tarea_3173 20250815
+delete 20250523
+execute
+move 20250124 20250501
+delete 20250303
+delete 20240819
+discard
+delete 20250524
+add Tarea_3181 20251213
+discard
+move 20240722 20250420
+execute
+add Tarea_3185 20241225
+move 20251128 20241209
+discard
+delete 20251005
+delete 20250706
+add Tarea_3190 20251202
+discard
+add Tarea_3192 20251118
+delete 20240801
+delete 20241001
+discard
+move 20250501 20240612
+execute
+execute
+move 20240817 20241201
+delete 20240101
+delete 20250213
+move 20240612 20250709
+move 20241225 20251217
+execute
+execute
+discard
+execute
+delete 20250709
+move 20240706 20250611
+add Tarea_3210 20251027
+add Tarea_3211 20240902
+execute
+delete 20241007
+delete 20240324
+add Tarea_3215 20241112
+move 20251213 20250310
+discard
+execute
+discard
+delete 20240219
+execute
+execute
+execute
+move 20250616 20250314
+delete 20250826
+move 20241122 20240925
+execute
+discard
+delete 20251027
+add Tarea_3230 20250620
+discard
+execute
+delete 20250106
+move 20240710 20251025
+add Tarea_3235 20250701
+move 20240715 20241101
+discard
+move 20241018 20240723
+move 20250815 20240819
+discard
+add Tarea_3241 20250104
+move 20241112 20240424
+move 20240902 20240918
+delete 20240723
+execute
+move 20240124 20240227
+discard
+add Tarea_3248 20250508
+move 20240927 20241126
+discard
+delete 20240925
+delete 20250321
+execute
+move 20250617 20241117
+execute
+execute
+add Tarea_3257 20240619
+delete 20250314
+delete 20250620
+delete 20251018
+execute
+add Tarea_3262 20250912
+move 20240117 20241217
+discard
+delete 20251202
+add Tarea_3266 20250215
+add Tarea_3267 20250220
+execute
+move 20240518 20250125
+execute
+delete 20241217
+move 20250310 20240511
+delete 20241101
+delete 20250312
+discard
+discard
+add Tarea_3277 20240728
+discard
+delete 20250220
+delete 20251118
+execute
+move 20251025 20240812
+execute
+move 20250802 20241224
+delete 20250420
+delete 20240427
+add Tarea_3287 20240123
+delete 20240424
+move 20240617 20250825
+move 20241218 20250924
+execute
+delete 20240502
+discard
+execute
+add Tarea_3295 20250318
+discard
+discard
+discard
+execute
+discard
+add Tarea_3301 20240218
+move 20250711 20240807
+add Tarea_3303 20250917
+delete 20240728
+delete 20241126
+execute
+discard
+discard
+execute
+discard
+discard
+delete 20240619
+add Tarea_3313 20240417
+move 20250924 20241221
+discard
+move 20250104 20240103
+discard
+execute
+delete 20250215
+discard
+delete 20241201
+delete 20250323
+move 20251125 20250413
+delete 20250318
+move 20240918 20240604
+add Tarea_3326 20250602
+execute
+add Tarea_3328 20251014
+discard
+delete 20240511
+delete 20240807
+execute
+execute
+discard
+discard
+discard
+add Tarea_3337 20250427
+delete 20250322
+discard
+move 20241224 20251112
+add Tarea_3341 20250708
+execute
+execute
+move 20241209 20240325
+move 20250611 20240502
+move 20240128 20250409
+discard
+execute
+add Tarea_3349 20250704
+execute
+move 20250701 20251226
+execute
+add Tarea_3353 20250924
+move 20240620 20240714
+add Tarea_3355 20241126
+move 20250125 20240701
+delete 20240714
+execute
+delete 20240103
+delete 20250427
+add Tarea_3361 20250201
+add Tarea_3362 20241027
+discard
+discard
+delete 20250708
+delete 20251014
+move 20250912 20240128
+discard
+execute
+move 20250409 20241014
+add Tarea_3371 20240526
+add Tarea_3372 20240520
+discard
+move 20240701 20251115
+add Tarea_3375 20250308
+discard
+add Tarea_3377 20241203
+discard
+add Tarea_3379 20241019
+move 20241027 20250610
+move 20250301 20240419
+delete 20250602
+execute
+add Tarea_3384 20241021
+discard
+move 20240819 20251009
+execute
+move 20241014 20240705
+delete 20250201
+discard
+execute
+execute
+discard
+add Tarea_3394 20251103
+discard
+add Tarea_3396 20250223
+discard
+execute
+delete 20240526
+move 20240417 20250422
+execute
+execute
+execute
+move 20241221 20240602
+add Tarea_3405 20250120
+delete 20250217
+execute
+move 20250825 20240320
+delete 20240325
+discard
+add Tarea_3411 20240519
+discard
+move 20240419 20250523
+move 20251115 20240512
+delete 20240602
+add Tarea_3416 20240720
+add Tarea_3417 20240915
+add Tarea_3418 20251219
+add Tarea_3419 20251216
+delete 20251226
+add Tarea_3421 20240822
+move 20250523 20250509
+delete 20240123
+discard
+execute
+discard
+execute
+delete 20240720
+execute
+delete 20251103
+add Tarea_3431 20241222
+execute
+delete 20240519
+add Tarea_3434 20250219
+discard
+execute
+execute
+discard
+add Tarea_3439 20240506
+delete 20240502
+execute
+add Tarea_3442 20250820
+delete 20241117
+add Tarea_3444 20250622
+move 20240705 20250621
+add Tarea_3446 20240810
+execute
+discard
+move 20241019 20240609
+delete 20240506
+delete 20251112
+execute
+execute
+move 20240520 20240518
+add Tarea_3455 20250920
+execute
+delete 20250219
+move 20250622 20250709
+discard
+delete 20250917
+add Tarea_3461 20250701
+execute
+delete 20241203
+add Tarea_3464 20250109
+discard
+execute
+move 20240604 20250813
+delete 20240812
+delete 20250108
+add Tarea_3470 20250502
+add Tarea_3471 20240316
+execute
+discard
+add Tarea_3474 20241005
+discard
+discard
+move 20241005 20251006
+discard
+move 20250110 20251004
+execute
+delete 20240810
+discard
+add Tarea_3483 20241224
+move 20250820 20251224
+add Tarea_3485 20251206
+discard
+move 20240822 20240114
+execute
+delete 20241021
+delete 20240627
+add Tarea_3491 20250923
+delete 20240523
+discard
+delete 20241126
+delete 20250422
+move 20251219 20250724
+delete 20251224
+delete 20250502
+delete 20240128
+delete 20251009
+delete 20240114
+discard
+delete 20240512
+execute
+execute
+move 20250413 20240313
+execute
+delete 20250709
+discard
+discard
+add Tarea_3511 20250402
+move 20250509 20240814
+add Tarea_3513 20240126
+delete 20250924
+discard
+delete 20250704
+discard
+move 20250610 20240927
+move 20250109 20241017
+execute
+execute
+move 20240724 20240523
+delete 20240915
+delete 20250920
+delete 20251216
+execute
+delete 20250308
+execute
+discard
+execute
+delete 20240218
+move 20240126 20250503
+move 20240927 20240826
+discard
+discard
+discard
+move 20250503 20250208
+move 20251206 20250322
+move 20240313 20240421
+delete 20240227
+delete 20240826
+add Tarea_3542 20241001
+add Tarea_3543 20251007
+delete 20250923
+execute
+delete 20251006
+add Tarea_3547 20250908
+execute
+move 20241224 20240304
+execute
+execute
+execute
+execute
+add Tarea_3554 20240915
+add Tarea_3555 20250115
+delete 20250701
+move 20240523 20250419
+execute
+add Tarea_3559 20240703
+move 20250402 20250214
+delete 20251007
+add Tarea_3562 20251214
+add Tarea_3563 20240121
+add Tarea_3564 20240908
+move 20250115 20251106
+add Tarea_3566 20240628
+discard
+add Tarea_3568 20240403
+execute
+discard
+discard
+move 20240421 20250123
+execute
+execute
+add Tarea_3575 20250428
+discard
+move 20240316 20250625
+add Tarea_3578 20250411
+add Tarea_3579 20241126
+execute
+move 20250515 20240510
+delete 20250208
+move 20240908 20250107
+execute
+discard
+add Tarea_3586 20250318
+delete 20240320
+execute
+delete 20241126
+execute
+add Tarea_3591 20250319
+execute
+move 20250318 20250407
+add Tarea_3594 20240414
+delete 20250120
+execute
+delete 20250813
+execute
+execute
+add Tarea_3600 20250325
+discard
+discard
+add Tarea_3603 20240624
+delete 20250621
+add Tarea_3605 20240908
+discard
+delete 20251106
+discard
+move 20240518 20250825
+delete 20250908
+add Tarea_3611 20250203
+add Tarea_3612 20250115
+execute
+add Tarea_3614 20240926
+delete 20250203
+move 20240510 20250215
+execute
+discard
+discard
+delete 20251217
+add Tarea_3621 20250826
+move 20241017 20251024
+delete 20240624
+move 20250214 20240920
+move 20240920 20250120
+execute
+move 20240609 20250216
+delete 20240121
+discard
+move 20250325 20240522
+execute
+delete 20250411
+add Tarea_3633 20241101
+delete 20240628
+move 20240926 20250528
+execute
+add Tarea_3637 20241125
+move 20251024 20240518
+delete 20250724
+discard
+delete 20250223
+discard
+add Tarea_3643 20240105
+move 20250123 20240120
+discard
+add Tarea_3646 20240201
+discard
+delete 20251004
+delete 20240304
+discard
+delete 20240908
+delete 20250322
+delete 20240105
+delete 20240414
+delete 20250826
+move 20240522 20250501
+delete 20250107
+add Tarea_3658 20240828
+discard
+add Tarea_3660 20250904
+discard
+delete 20241222
+execute
+add Tarea_3664 20250525
+add Tarea_3665 20251107
+add Tarea_3666 20240127
+move 20241101 20251104
+delete 20240518
+delete 20241001
+execute
+add Tarea_3671 20250615
+delete 20250428
+move 20250120 20250124
+move 20240127 20250826
+delete 20250215
+delete 20250216
+execute
+delete 20250508
+execute
+delete 20240828
+move 20240703 20240726
+discard
+execute
+move 20250419 20250304
+delete 20250528
+discard
+add Tarea_3687 20240518
+discard
+delete 20250115
+add Tarea_3690 20241117
+add Tarea_3691 20250601
+add Tarea_3692 20250611
+discard
+move 20251104 20250427
+execute
+execute
+execute
+discard
+move 20250826 20250226
+delete 20250304
+execute
+discard
+execute
+execute
+move 20240403 20251005
+delete 20240201
+delete 20241125
+discard
+execute
+execute
+add Tarea_3711 20250524
+execute
+execute
+delete 20250319
+add Tarea_3715 20250318
+move 20250226 20250403
+execute
+add Tarea_3718 20250617
+move 20250615 20250710
+discard
+delete 20240814
+delete 20250904
+execute
+delete 20250501
+delete 20250601
+delete 20241117
+add Tarea_3727 20240525
+execute
+discard
+discard
+discard
+add Tarea_3732 20240916
+discard
+delete 20251214
+delete 20250617
+discard
+discard
+discard
+add Tarea_3739 20250626
+delete 20240120
+discard
+delete 20250625
+delete 20240726
+add Tarea_3744 20240114
+execute
+add Tarea_3746 20240328
+delete 20240328
+add Tarea_3748 20240316
+add Tarea_3749 20240312
+add Tarea_3750 20240224
+discard
+discard
+move 20240224 20240317
+execute
+delete 20250825
+execute
+delete 20240312
+delete 20250611
+add Tarea_3759 20241114
+discard
+discard
+move 20250403 20240427
+delete 20250427
+delete 20251107
+discard
+discard
+add Tarea_3767 20241222
+move 20250124 20240401
+add Tarea_3769 20240519
+execute
+add Tarea_3771 20240105
+execute
+delete 20240525
+discard
+discard
+move 20251005 20241110
+discard
+delete 20240114
+execute
+add Tarea_3780 20250708
+add Tarea_3781 20240809
+delete 20240916
+execute
+move 20240519 20240723
+execute
+delete 20241114
+delete 20250626
+discard
+execute
+execute
+add Tarea_3791 20240507
+execute
+move 20241110 20251219
+delete 20240401
+move 20251219 20240916
+discard
+add Tarea_3797 20240204
+discard
+move 20240723 20240520
+delete 20240518
+add Tarea_3801 20240803
+delete 20250710
+discard
+add Tarea_3804 20240519
+move 20240105 20240409
+delete 20240507
+execute
+move 20240809 20250826
+delete 20250826
+delete 20241222
+discard
+delete 20250407
+move 20240427 20250113
+add Tarea_3814 20251105
+discard
+execute
+discard
+move 20240915 20251114
+move 20240204 20241008
+delete 20251114
+discard
+execute
+delete 20240520
+execute
+move 20250113 20250827
+delete 20250525
+execute
+add Tarea_3828 20250812
+execute
+add Tarea_3830 20250723
+move 20240317 20251127
+discard
+delete 20240519
+execute
+move 20250708 20241017
+delete 20251127
+delete 20241017
+discard
+add Tarea_3839 20240227
+delete 20250524
+move 20241008 20241119
+delete 20250723
+execute
+discard
+discard
+add Tarea_3846 20250104
+add Tarea_3847 20241027
+move 20241027 20251111
+discard
+move 20250827 20251110
+add Tarea_3851 20250712
+discard
+delete 20240409
+discard
+add Tarea_3855 20240107
+discard
+move 20250318 20240914
+discard
+delete 20250104
+move 20250712 20240512
+discard
+delete 20240512
+add Tarea_3863 20240301
+discard
+execute
+delete 20240301
+discard
+discard
+add Tarea_3869 20240305
+move 20240803 20250520
+discard
+move 20240305 20250114
+discard
+delete 20240914
+move 20240107 20250621
+add Tarea_3876 20240611
+discard
+move 20251111 20251121
+discard
+move 20250520 20250407
+add Tarea_3881 20250728
+discard
+delete 20250621
+discard
+execute
+add Tarea_3886 20250801
+execute
+delete 20251105
+delete 20250801
+execute
+move 20241119 20240117
+delete 20240117
+delete 20250812
+move 20240227 20250428
+add Tarea_3895 20250813
+move 20240316 20241001
+discard
+discard
+execute
+delete 20250728
+delete 20241001
+execute
+add Tarea_3903 20240601
+move 20250813 20240912
+move 20240916 20250906
+execute
+add Tarea_3907 20240716
+execute
+move 20250428 20250122
+discard
+add Tarea_3911 20250910
+discard
+discard
+add Tarea_3914 20250126
+move 20250114 20241013
+discard
+execute
+execute
+move 20240611 20250626
+delete 20240601
+delete 20240912
+add Tarea_3922 20250801
+move 20250126 20241128
+move 20250407 20241227
+execute
+add Tarea_3926 20241017
+move 20251121 20240522
+move 20240716 20241019
+move 20241013 20240526
+delete 20241128
+add Tarea_3931 20240111
+delete 20240526
+execute
+delete 20240111
+add Tarea_3935 20241011
+delete 20250906
+discard
+discard
+discard
+execute
+add Tarea_3941 20240809
+execute
+move 20241011 20241016
+add Tarea_3944 20251222
+discard
+discard
+delete 20240522
+move 20240809 20250816
+add Tarea_3949 20250923
+execute
+move 20241017 20250607
+delete 20250910
+execute
+execute
+execute
+discard
+discard
+discard
+discard
+move 20250626 20240103
+add Tarea_3961 20240214
+discard
+delete 20251222
+add Tarea_3964 20240523
+delete 20240103
+execute
+execute
+add Tarea_3968 20251108
+add Tarea_3969 20240223
+delete 20241019
+execute
+execute
+execute
+add Tarea_3974 20251119
+execute
+move 20241016 20250513
+delete 20250513
+move 20240214 20251217
+execute
+execute
+delete 20240523
+add Tarea_3982 20250727
+move 20251110 20240426
+add Tarea_3984 20240116
+execute
+delete 20251217
+delete 20250923
+move 20250607 20250526
+move 20250122 20250110
+delete 20240223
+add Tarea_3991 20240403
+delete 20250816
+discard
+execute
+delete 20250801
+add Tarea_3996 20250625
+move 20241227 20250921
+move 20250526 20250601
+discard
+delete 20250727
+execute
+delete 20251119
+execute
+move 20240403 20250421
+discard
+delete 20250421
+discard
+add Tarea_4008 20240127
+add Tarea_4009 20240507
+delete 20240127
+add Tarea_4011 20240824
+add Tarea_4012 20250815
+discard
+move 20250815 20251107
+move 20240507 20250526
+execute
+move 20240426 20241113
+execute
+execute
+discard
+discard
+delete 20250921
+discard
+discard
+discard
+delete 20240116
+execute
+delete 20251108
+add Tarea_4029 20240119
+execute
+execute
+delete 20240824
+move 20241113 20240820
+discard
+move 20250601 20240122
+discard
+execute
+move 20250526 20240904
+execute
+discard
+delete 20240119
+add Tarea_4042 20250427
+add Tarea_4043 20240712
+move 20240122 20251125
+move 20240820 20251105
+execute
+discard
+add Tarea_4048 20240721
+move 20251105 20241209
+execute
+execute
+move 20240721 20250410
+move 20251125 20240802
+execute
+discard
+add Tarea_4056 20251006
+move 20250410 20250612
+delete 20250427
+discard
+discard
+add Tarea_4061 20250318
+add Tarea_4062 20240215
+execute
+execute
+delete 20250625
+discard
+add Tarea_4067 20251018
+move 20250612 20240202
+delete 20240904
+delete 20240712
+move 20250110 20251204
+add Tarea_4072 20250818
+discard
+add Tarea_4074 20241220
+add Tarea_4075 20240327
+discard
+add Tarea_4077 20250325
+add Tarea_4078 20250914
+discard
+move 20251204 20250904
+execute
+execute
+execute
+add Tarea_4084 20251111
+move 20250318 20241108
+delete 20240327
+delete 20240802
+delete 20250914
+move 20240202 20240921
+move 20251006 20241021
+add Tarea_4091 20240102
+move 20240921 20240427
+add Tarea_4093 20250112
+execute
+delete 20251018
+execute
+execute
+execute
+execute
+move 20250818 20240305
+add Tarea_4101 20251108
+discard
+add Tarea_4103 20250423
+execute
+discard
+discard
+discard
+execute
+delete 20240215
+add Tarea_4110 20240522
+execute
+delete 20241209
+add Tarea_4113 20240818
+move 20241220 20251218
+execute
+execute
+execute
+execute
+delete 20240818
+delete 20250112
+execute
+move 20250423 20250315
+add Tarea_4123 20240309
+discard
+discard
+execute
+move 20251111 20240216
+delete 20250315
+execute
+delete 20251108
+execute
+discard
+discard
+move 20251218 20241017
+move 20240427 20251008
+delete 20240522
+discard
+add Tarea_4138 20240911
+add Tarea_4139 20250601
+execute
+move 20240216 20250515
+execute
+delete 20241108
+discard
+move 20241021 20240410
+add Tarea_4146 20241216
+delete 20240309
+execute
+move 20250325 20251202
+discard
+discard
+delete 20241017
+move 20251008 20240219
+move 20241216 20240117
+discard
+add Tarea_4156 20250217
+discard
+move 20240219 20240424
+move 20250515 20250826
+delete 20251202
+delete 20240911
+move 20240117 20250907
+delete 20240305
+move 20250601 20251205
+move 20240102 20250314
+delete 20250217
+delete 20251107
+execute
+move 20240410 20240802
+execute
+move 20240424 20250320
+execute
+add Tarea_4173 20250725
+discard
+add Tarea_4175 20250106
+add Tarea_4176 20250728
+execute
+add Tarea_4178 20251110
+discard
+execute
+add Tarea_4181 20240323
+move 20250907 20250420
+move 20240802 20250617
+delete 20250617
+move 20250904 20251217
+discard
+move 20240323 20240419
+delete 20250420
+add Tarea_4189 20250222
+move 20250728 20250104
+add Tarea_4191 20240603
+discard
+move 20240419 20251202
+delete 20251205
+delete 20251110
+delete 20250106
+delete 20251217
+add Tarea_4198 20240724
+move 20240603 20250112
+discard
+add Tarea_4201 20240112
+execute
+add Tarea_4203 20250119
+move 20250104 20240615
+move 20240615 20240924
+move 20250222 20250726
+add Tarea_4207 20250415
+move 20250415 20240920
+move 20250725 20250415
+discard
+add Tarea_4211 20240710
+discard
+execute
+move 20250112 20240304
+delete 20240710
+discard
+execute
+delete 20240304
+add Tarea_4219 20250122
+execute
+delete 20250314
+move 20250119 20251211
+delete 20250320
+discard
+add Tarea_4225 20241212
+move 20240924 20240905
+delete 20240905
+delete 20251211
+delete 20240920
+add Tarea_4230 20250818
+add Tarea_4231 20240509
+execute
+discard
+move 20251202 20250924
+discard
+delete 20241212
+execute
+execute
+delete 20250826
+execute
+add Tarea_4241 20240310
+delete 20250924
+move 20250122 20250918
+execute
+discard
+move 20240724 20240609
+execute
+execute
+add Tarea_4249 20251009
+delete 20240609
+move 20250726 20250425
+discard
+move 20250415 20250626
+move 20240509 20240505
+delete 20240505
+move 20250818 20241024
+execute
+add Tarea_4258 20240802
+delete 20240112
+delete 20251009
+discard
+discard
+discard
+add Tarea_4264 20240910
+delete 20250626
+add Tarea_4266 20250703
+move 20250918 20240124
+move 20240310 20250222
+delete 20240802
+add Tarea_4270 20251213
+execute
+delete 20240124
+execute
+execute
+move 20241024 20240219
+move 20251213 20240928
+add Tarea_4277 20250618
+move 20250425 20250227
+move 20240219 20240620
+add Tarea_4280 20251105
+add Tarea_4281 20250716
+add Tarea_4282 20241006
+add Tarea_4283 20240315
+discard
+move 20240928 20240523
+delete 20240315
+add Tarea_4287 20250818
+execute
+move 20241006 20251017
+execute
+add Tarea_4291 20250404
+delete 20240523
+discard
+discard
+delete 20250716
+move 20251017 20250307
+move 20240620 20250302
+discard
+delete 20240910
+add Tarea_4300 20240506
+add Tarea_4301 20240119
+execute
+delete 20250618
+add Tarea_4304 20240224
+execute
+delete 20240224
+add Tarea_4307 20250117
+discard
+delete 20250703
+execute
+move 20250222 20240217
+add Tarea_4312 20250807
+discard
+add Tarea_4314 20240216
+delete 20240119
+add Tarea_4316 20240422
+delete 20250404
+move 20250818 20250204
+execute
+move 20250307 20250526
+add Tarea_4321 20240319
+execute
+delete 20250302
+delete 20240217
+add Tarea_4325 20250305
+execute
+delete 20240506
+execute
+move 20251105 20240404
+add Tarea_4330 20250721
+execute
+delete 20240319
+move 20250227 20240926
+delete 20250526
+move 20240404 20250517
+execute
+move 20240422 20241213
+discard
+execute
+delete 20240216
+delete 20241213
+delete 20250204
+delete 20240926
+delete 20250517
+discard
+delete 20250117
+discard
+discard
+delete 20250721
+delete 20250807
+add Tarea_4351 20240812
+add Tarea_4352 20241127
+discard
+execute
+move 20241127 20250104
+add Tarea_4356 20240606
+discard
+move 20240606 20250317
+execute
+discard
+delete 20250317
+move 20240812 20250115
+add Tarea_4363 20240915
+add Tarea_4364 20250810
+delete 20250810
+add Tarea_4366 20250617
+discard
+move 20250104 20251219
+execute
+delete 20251219
+execute
+execute
+discard
+delete 20250305
+add Tarea_4375 20240414
+execute
+execute
+execute
+move 20250115 20241215
+execute
+execute
+move 20250617 20250213
+execute
+execute
+execute
+discard
+discard
+execute
+execute
+discard
+discard
+discard
+execute
+add Tarea_4394 20250421
+delete 20240414
+discard
+move 20241215 20250809
+move 20250809 20250601
+move 20250213 20251013
+discard
+move 20251013 20250309
+discard
+execute
+execute
+execute
+add Tarea_4406 20240409
+add Tarea_4407 20250806
+delete 20240409
+delete 20240915
+execute
+execute
+discard
+delete 20250309
+discard
+discard
+execute
+add Tarea_4417 20241214
+delete 20250421
+move 20241214 20250524
+execute
+delete 20250524
+discard
+delete 20250601
+discard
+delete 20250806
+add Tarea_4429 20240722
+discard
+add Tarea_4431 20250918
+delete 20240722
+delete 20250918
+execute
+discard
+discard
+discard
+execute
+execute
+add Tarea_4443 20240518
+discard
+discard
+execute
+add Tarea_4447 20250309
+delete 20250309
+execute
+discard
+discard
+add Tarea_4452 20250626
+add Tarea_4453 20241117
+add Tarea_4454 20250810
+add Tarea_4455 20240402
+discard
+discard
+execute
+move 20241117 20240608
+discard
+execute
+move 20240402 20250813
+delete 20250813
+move 20240608 20251202
+add Tarea_4465 20240123
+discard
+discard
+move 20240518 20240721
+discard
+discard
+move 20250626 20240611
+add Tarea_4472 20240120
+move 20251202 20250608
+discard
+delete 20250608
+add Tarea_4476 20240121
+discard
+execute
+move 20240611 20250420
+execute
+delete 20250420
+add Tarea_4482 20250905
+delete 20240123
+delete 20240120
+discard
+execute
+add Tarea_4487 20240924
+discard
+add Tarea_4489 20241216
+execute
+add Tarea_4491 20250116
+execute
+move 20240721 20240221
+execute
+discard
+delete 20250905
+discard
+delete 20250116
+add Tarea_4499 20240823
+execute
+discard
+discard
+execute
+discard
+delete 20240924
+move 20241216 20250315
+discard
+discard
+add Tarea_4509 20250716
+move 20250716 20250711
+execute
+discard
+execute
+discard
+discard
+add Tarea_4516 20251110
+delete 20240121
+discard
+move 20240823 20250110
+execute
+execute
+delete 20251110
+add Tarea_4523 20250724
+execute
+execute
+discard
+move 20250724 20240603
+delete 20240603
+delete 20250810
+delete 20250711
+delete 20250110
+execute
+move 20240221 20250805
+add Tarea_4534 20250617
+discard
+discard
+delete 20250617
+delete 20250805
+discard
+add Tarea_4540 20250123
+move 20250315 20250607
+move 20250123 20241105
+delete 20241105
+add Tarea_4544 20251102
+execute
+discard
+add Tarea_4547 20240121
+add Tarea_4548 20240423
+discard
+delete 20251102
+add Tarea_4551 20250820
+add Tarea_4552 20240420
+execute
+add Tarea_4554 20240125
+add Tarea_4555 20250225
+add Tarea_4556 20250813
+add Tarea_4557 20240524
+delete 20250813
+move 20250607 20250402
+discard
+add Tarea_4561 20250406
+discard
+discard
+execute
+add Tarea_4565 20250828
+discard
+discard
+add Tarea_4568 20240501
+move 20240125 20240921
+execute
+add Tarea_4571 20250214
+add Tarea_4572 20240616
+delete 20240420
+move 20250828 20251105
+execute
+execute
+execute
+delete 20240423
+execute
+execute
+execute
+add Tarea_4582 20250918
+execute
+execute
+delete 20240921
+delete 20251105
+delete 20250820
+add Tarea_4588 20250128
+move 20240616 20240815
+delete 20250214
+execute
+execute
+discard
+execute
+execute
+add Tarea_4596 20241123
+discard
+delete 20250406
+delete 20250402
+delete 20241123
+execute
+add Tarea_4602 20241109
+add Tarea_4603 20240509
+move 20240501 20250526
+add Tarea_4605 20240309
+delete 20250128
+move 20240509 20241219
+execute
+add Tarea_4609 20240119
+move 20241109 20250305
+execute
+execute
+delete 20240121
+discard
+add Tarea_4615 20250816
+discard
+add Tarea_4617 20240307
+delete 20250918
+move 20250225 20251028
+delete 20240119
+add Tarea_4621 20251102
+move 20251028 20240711
+move 20240815 20240417
+delete 20240524
+move 20251102 20251221
+move 20250816 20241017
+execute
+delete 20240417
+move 20250526 20240714
+move 20240309 20250323
+discard
+add Tarea_4632 20250425
+delete 20240714
+execute
+discard
+execute
+execute
+add Tarea_4638 20240323
+execute
+execute
+execute
+execute
+delete 20240323
+add Tarea_4644 20250207
+discard
+discard
+delete 20240711
+delete 20250323
+execute
+delete 20250425
+execute
+add Tarea_4652 20241027
+move 20241219 20250208
+execute
+add Tarea_4655 20250604
+execute
+add Tarea_4657 20240815
+discard
+execute
+delete 20241017
+execute
+discard
+move 20250305 20240120
+execute
+delete 20250208
+add Tarea_4666 20240808
+discard
+discard
+delete 20240307
+execute
+execute
+move 20250604 20240623
+discard
+add Tarea_4674 20250307
+delete 20240623
+delete 20250307
+discard
+delete 20250207
+move 20251221 20240320
+add Tarea_4680 20250411
+discard
+execute
+delete 20240815
+delete 20240320
+add Tarea_4685 20250320
+move 20240120 20250614
+add Tarea_4687 20251227
+discard
+delete 20240808
+move 20241027 20240219
+execute
+add Tarea_4692 20250609
+delete 20250609
+discard
+discard
+discard
+delete 20250320
+delete 20250614
+delete 20240219
+execute
+discard
+delete 20251227
+move 20250411 20251221
+delete 20251221
+add Tarea_4707 20250202
+discard
+move 20250202 20251102
+execute
+add Tarea_4711 20250613
+move 20251102 20250808
+move 20250808 20240811
+move 20240811 20251103
+discard
+delete 20250613
+execute
+delete 20251103
+add Tarea_4719 20250811
+move 20250811 20250912
+execute
+execute
+execute
+discard
+add Tarea_4725 20241024
+discard
+execute
+add Tarea_4728 20240425
+discard
+execute
+discard
+move 20240425 20250302
+add Tarea_4733 20240827
+execute
+add Tarea_4735 20250408
+move 20250302 20250409
+move 20250409 20240307
+add Tarea_4738 20240311
+discard
+execute
+discard
+delete 20240307
+move 20240311 20251108
+discard
+execute
+execute
+discard
+delete 20241024
+execute
+move 20251108 20250208
+discard
+delete 20250912
+move 20250208 20250804
+execute
+discard
+delete 20240827
+execute
+execute
+move 20250804 20240510
+delete 20250408
+execute
+execute
+execute
+add Tarea_4764 20250817
+discard
+execute
+delete 20240510
+discard
+delete 20250817
+execute
+add Tarea_4773 20240728
+delete 20240728
+execute
+add Tarea_4776 20240716
+execute
+add Tarea_4778 20240524
+move 20240716 20241121
+execute
+add Tarea_4781 20250207
+discard
+discard
+delete 20240524
+execute
+move 20241121 20250208
+move 20250208 20251121
+discard
+execute
+delete 20251121
+delete 20250207
+execute
+discard
+add Tarea_4799 20240627
+discard
+add Tarea_4801 20250502
+execute
+delete 20240627
+delete 20250502
+discard
+discard
+add Tarea_4813 20240213
+add Tarea_4814 20250523
+execute
+add Tarea_4816 20250501
+discard
+add Tarea_4818 20240122
+delete 20240122
+add Tarea_4820 20250624
+add Tarea_4821 20250719
+add Tarea_4822 20240108
+add Tarea_4823 20240808
+execute
+move 20250501 20251224
+move 20240213 20251203
+execute
+add Tarea_4828 20251008
+delete 20240108
+discard
+move 20240808 20240713
+add Tarea_4832 20240324
+execute
+add Tarea_4834 20251123
+delete 20240713
+add Tarea_4836 20240807
+add Tarea_4837 20240406
+add Tarea_4838 20240120
+move 20250719 20250718
+discard
+delete 20250718
+discard
+delete 20240324
+move 20251224 20250302
+delete 20240807
+add Tarea_4846 20250503
+discard
+execute
+delete 20251203
+discard
+delete 20250503
+move 20250302 20240913
+move 20240406 20241013
+move 20250624 20251201
+execute
+delete 20251008
+execute
+discard
+add Tarea_4859 20240808
+execute
+delete 20251201
+add Tarea_4862 20251012
+add Tarea_4863 20240214
+discard
+add Tarea_4865 20250710
+execute
+delete 20251123
+add Tarea_4868 20240108
+move 20250710 20240302
+move 20240808 20240805
+add Tarea_4871 20251015
+execute
+execute
+add Tarea_4874 20240407
+discard
+execute
+move 20251012 20250207
+add Tarea_4878 20250508
+add Tarea_4879 20251205
+discard
+add Tarea_4881 20241016
+move 20240407 20250114
+execute
+execute
+add Tarea_4885 20250812
+discard
+move 20240214 20251004
+move 20250207 20240804
+add Tarea_4889 20251001
+delete 20250114
+move 20251001 20240213
+discard
+move 20250812 20250802
+delete 20251015
+delete 20240804
+execute
+delete 20240108
+execute
+add Tarea_4899 20241221
+execute
+execute
+move 20240805 20240327
+discard
+move 20251004 20251027
+execute
+delete 20250802
+add Tarea_4907 20241116
+execute
+execute
+add Tarea_4910 20250818
+move 20240120 20240710
+execute
+delete 20240327
+add Tarea_4914 20250805
+move 20241221 20240920
+delete 20250818
+execute
+delete 20241116
+execute
+discard
+execute
+execute
+discard
+delete 20240213
+discard
+discard
+add Tarea_4927 20240225
+execute
+move 20250523 20240317
+move 20240317 20251208
+execute
+discard
+execute
+discard
+add Tarea_4935 20241003
+add Tarea_4936 20250113
+discard
+add Tarea_4938 20250927
+move 20241013 20250724
+delete 20251205
+discard
+move 20250508 20250701
+delete 20240710
+delete 20251208
+delete 20240920
+move 20240302 20240705
+add Tarea_4947 20241110
+move 20240225 20240802
+delete 20250701
+discard
+discard
+execute
+add Tarea_4953 20250128
+discard
+discard
+move 20241016 20250423
+execute
+move 20240913 20240501
+delete 20250724
+execute
+delete 20250927
+delete 20240705
+move 20250805 20240120
+delete 20241003
+move 20250423 20251013
+delete 20251027
+execute
+execute
+execute
+execute
+discard
+discard
+add Tarea_4973 20251201
+move 20250113 20240816
+discard
+execute
+execute
+delete 20251201
+execute
+discard
+discard
+move 20240501 20240714
+add Tarea_4983 20240701
+add Tarea_4984 20250511
+execute
+delete 20250128
+discard
+discard
+execute
+delete 20240120
+delete 20240802
+execute
+add Tarea_4993 20240601
+move 20240816 20250505
+move 20240714 20250109
+discard
+delete 20250505
+add Tarea_4998 20240825
+move 20250511 20240711
+discard
+execute
+move 20240825 20250521
+execute
+add Tarea_5004 20240717
+move 20241110 20250416
+move 20250416 20250127
+execute
+move 20251013 20250524
+discard
+move 20250109 20250520
+execute
+move 20250524 20250708
+add Tarea_5013 20251114
+delete 20240601
+add Tarea_5015 20240918
+execute
+move 20250520 20250620
+add Tarea_5018 20240728
+move 20250127 20250204
+move 20240701 20250110
+discard
+delete 20240918
+delete 20250620
+add Tarea_5024 20251221
+delete 20240717
+execute
+move 20250110 20251201
+move 20250204 20251127
+delete 20251201
+discard
+discard
+discard
+add Tarea_5033 20250614
+execute
+execute
+execute
+discard
+move 20250614 20240410
+add Tarea_5039 20240913
+execute
+delete 20240711
+discard
+execute
+delete 20251114
+delete 20250708
+discard
+move 20240913 20241125
+execute
+move 20250521 20250424
+execute
+discard
+discard
+discard
+add Tarea_5054 20250216
+discard
+discard
+delete 20251221
+delete 20250424
+add Tarea_5059 20251011
+add Tarea_5060 20240116
+delete 20250216
+move 20240728 20240408
+discard
+execute
+add Tarea_5065 20240723
+move 20251127 20241006
+add Tarea_5067 20251013
+add Tarea_5068 20251003
+execute
+add Tarea_5070 20250616
+discard
+move 20241006 20240418
+add Tarea_5073 20241209
+execute
+discard
+discard
+add Tarea_5077 20250325
+execute
+add Tarea_5079 20240206
+move 20240116 20241223
+move 20240723 20241010
+discard
+add Tarea_5083 20241108
+move 20250325 20250609
+add Tarea_5085 20250503
+delete 20241125
+add Tarea_5087 20240824
+discard
+discard
+move 20240206 20240327
+execute
+execute
+delete 20240327
+delete 20240418
+move 20251003 20240610
+execute
+add Tarea_5097 20251108
+discard
+discard
+delete 20240408
+discard
+add Tarea_5102 20250905
+move 20240610 20240604
+move 20240410 20241205
+move 20241223 20250316
+move 20250503 20240310
+discard
+delete 20251011
+execute
+delete 20241108
+add Tarea_5111 20240504
+add Tarea_5112 20250623
+discard
+add Tarea_5114 20240402
+execute
+execute
+add Tarea_5117 20250403
+move 20251108 20240320
+discard
+discard
+delete 20240320
+move 20241209 20250520
+move 20250316 20241022
+move 20251013 20250608
+move 20241205 20240415
+execute
+move 20241010 20241203
+discard
+discard
+move 20241022 20250811
+add Tarea_5131 20241216
+discard
+move 20250616 20240616
+add Tarea_5134 20241012
+delete 20250905
+execute
+move 20241216 20251112
+add Tarea_5138 20251203
+delete 20251112
+delete 20250403
+delete 20241012
+execute
+execute
+execute
+delete 20250608
+discard
+discard
+delete 20251203
+execute
+discard
+add Tarea_5151 20250203
+move 20240402 20251218
+execute
+execute
+add Tarea_5155 20240812
+move 20240812 20251117
+move 20250609 20250122
+add Tarea_5158 20240908
+delete 20240504
+add Tarea_5160 20240405
+move 20250203 20250517
+delete 20250520
+discard
+add Tarea_5164 20241125
+delete 20241203
+add Tarea_5166 20250513
+add Tarea_5167 20240718
+execute
+add Tarea_5169 20251216
+move 20250513 20251107
+discard
+execute
+move 20250623 20240506
+execute
+add Tarea_5175 20250110
+add Tarea_5176 20240708
+execute
+discard
+discard
+delete 20240506
+move 20240708 20250815
+delete 20250517
+delete 20240718
+delete 20250110
+delete 20240415
+move 20240616 20250228
+discard
+move 20251117 20240406
+execute
+add Tarea_5190 20251202
+move 20240406 20240518
+discard
+move 20241125 20250810
+delete 20240604
+execute
+move 20240405 20251108
+add Tarea_5197 20250316
+add Tarea_5198 20250312
+move 20250316 20251221
+move 20250811 20250920
+move 20240310 20241125
+execute
+discard
+execute
+discard
+delete 20250312
+move 20250810 20250402
+delete 20250122
+add Tarea_5209 20251110
+add Tarea_5210 20241202
+delete 20251218
+move 20251221 20250526
+execute
+move 20250228 20240418
+move 20241202 20240605
+discard
+add Tarea_5217 20250116
+discard
+delete 20240518
+execute
+discard
+delete 20251107
+delete 20240605
+add Tarea_5224 20241219
+discard
+execute
+delete 20241219
+delete 20250116
+delete 20251108
+add Tarea_5230 20240212
+execute
+move 20240418 20240909
+execute
+execute
+move 20251110 20241115
+add Tarea_5236 20240703
+move 20251202 20250418
+discard
+move 20250815 20250827
+execute
+delete 20241115
+discard
+execute
+execute
+move 20240908 20250622
+add Tarea_5246 20240906
+add Tarea_5247 20240710
+discard
+execute
+move 20240710 20240922
+execute
+add Tarea_5252 20241212
+move 20250402 20250121
+move 20240703 20241211
+discard
+add Tarea_5256 20250727
+delete 20240909
+move 20250622 20241007
+move 20240824 20250817
+delete 20250121
+delete 20250526
+move 20250727 20240609
+add Tarea_5263 20250624
+add Tarea_5264 20241206
+execute
+add Tarea_5266 20250528
+discard
+delete 20240922
+delete 20250920
+move 20240609 20240214
+discard
+delete 20251216
+discard
+move 20250528 20250401
+execute
+discard
+execute
+delete 20240906
+move 20241212 20240704
+add Tarea_5280 20240604
+execute
+discard
+execute
+discard
+add Tarea_5285 20240912
+add Tarea_5286 20241015
+discard
+delete 20241211
+delete 20241015
+execute
+discard
+discard
+execute
+add Tarea_5294 20240327
+add Tarea_5295 20241225
+add Tarea_5296 20240524
+discard
+execute
+move 20240704 20250716
+execute
+delete 20241206
+add Tarea_5302 20240703
+execute
+execute
+move 20241007 20240308
+discard
+delete 20250817
+delete 20240214
+add Tarea_5309 20250824
+add Tarea_5310 20240613
+delete 20250401
+discard
+add Tarea_5313 20241108
+discard
+delete 20250716
+delete 20250827
+execute
+execute
+move 20240308 20240114
+add Tarea_5320 20251215
+discard
+move 20240703 20240104
+discard
+add Tarea_5324 20251225
+add Tarea_5325 20250201
+execute
+execute
+delete 20241108
+move 20240604 20250524
+delete 20240524
+delete 20250201
+discard
+delete 20240212
+discard
+move 20250418 20241007
+move 20240114 20240802
+add Tarea_5337 20250216
+execute
+execute
+discard
+delete 20240802
+move 20240327 20240812
+add Tarea_5343 20250214
+delete 20250214
+add Tarea_5345 20240426
+execute
+discard
+move 20240426 20250727
+execute
+move 20240812 20250101
+execute
+discard
+add Tarea_5353 20250303
+move 20240613 20240326
+delete 20251225
+delete 20241225
+move 20241007 20250321
+move 20240326 20241018
+delete 20241125
+delete 20250216
+delete 20250321
+discard
+discard
+add Tarea_5364 20240122
+delete 20250727
+delete 20250303
+delete 20250824
+move 20240122 20240424
+execute
+discard
+delete 20250624
+discard
+delete 20241018
+move 20251215 20240827
+discard
+execute
+delete 20250524
+discard
+execute
+execute
+move 20240827 20250712
+discard
+execute
+execute
+add Tarea_5385 20250826
+delete 20240424
+move 20250101 20250621
+execute
+delete 20240104
+execute
+add Tarea_5391 20240927
+discard
+execute
+execute
+move 20250826 20240527
+execute
+delete 20250621
+discard
+add Tarea_5399 20250901
+add Tarea_5400 20250520
+execute
+move 20250901 20250116
+delete 20240912
+execute
+execute
+move 20250116 20240202
+delete 20240927
+add Tarea_5408 20240203
+discard
+execute
+delete 20250520
+move 20240202 20240712
+delete 20250712
+execute
+add Tarea_5415 20240501
+move 20240501 20250412
+discard
+execute
+discard
+execute
+add Tarea_5421 20250126
+discard
+discard
+execute
+delete 20250412
+discard
+execute
+move 20250126 20250426
+execute
+delete 20240203
+move 20240712 20250221
+add Tarea_5432 20250307
+move 20240527 20251112
+discard
+delete 20251112
+execute
+add Tarea_5437 20241219
+delete 20241219
+execute
+discard
+delete 20250426
+move 20250221 20240510
+move 20240510 20250314
+delete 20250307
+add Tarea_5445 20250304
+execute
+move 20250314 20240803
+delete 20250304
+add Tarea_5449 20241108
+discard
+execute
+execute
+execute
+move 20240803 20250702
+add Tarea_5455 20240319
+execute
+discard
+add Tarea_5458 20240820
+discard
+add Tarea_5460 20240624
+discard
+add Tarea_5462 20240701
+execute
+move 20240701 20240414
+add Tarea_5465 20250610
+add Tarea_5466 20250810
+discard
+move 20240414 20250504
+discard
+discard
+execute
+discard
+delete 20240319
+delete 20240624
+discard
+add Tarea_5476 20240214
+discard
+move 20241108 20241028
+move 20250610 20240906
+discard
+delete 20241028
+add Tarea_5482 20250309
+execute
+execute
+discard
+discard
+add Tarea_5487 20240812
+discard
+execute
+move 20250504 20241206
+discard
+add Tarea_5492 20240613
+execute
+delete 20240820
+delete 20250309
+delete 20240812
+execute
+add Tarea_5498 20240921
+delete 20240906
+execute
+execute
+delete 20250702
+move 20250810 20241119
+delete 20241206
+delete 20240921
+move 20240613 20250314
+discard
+add Tarea_5508 20240806
+execute
+move 20240214 20240312
+move 20241119 20250802
+delete 20240312
+discard
+add Tarea_5514 20240923
+discard
+delete 20250314
+move 20240806 20250126
+delete 20250802
+add Tarea_5519 20240909
+discard
+add Tarea_5521 20250603
+move 20250126 20240928
+add Tarea_5523 20250702
+add Tarea_5524 20250204
+move 20250204 20251020
+delete 20250603
+move 20251020 20250124
+add Tarea_5528 20250820
+execute
+add Tarea_5530 20240219
+move 20240219 20250426
+discard
+execute
+execute
+add Tarea_5535 20251110
+delete 20250426
+discard
+move 20251110 20250616
+delete 20240928
+execute
+execute
+move 20250702 20240814
+add Tarea_5543 20240205
+delete 20240814
+execute
+delete 20250616
+move 20240205 20250914
+discard
+move 20240909 20251209
+move 20250124 20250412
+execute
+move 20250820 20240722
+delete 20240722
+add Tarea_5554 20240815
+move 20250412 20250420
+discard
+execute
+delete 20251209
+move 20250914 20241209
+move 20240923 20240813
+add Tarea_5561 20240723
+execute
+discard
+execute
+add Tarea_5565 20240624
+discard
+move 20240813 20250919
+add Tarea_5568 20240228
+delete 20250919
+move 20250420 20241224
+discard
+move 20241209 20251006
+move 20240723 20240217
+execute
+discard
+delete 20251006
+execute
+add Tarea_5578 20240911
+discard
+execute
+add Tarea_5581 20240601
+add Tarea_5582 20251102
+discard
+execute
+delete 20240601
+execute
+delete 20240815
+add Tarea_5588 20250308
+execute
+execute
+move 20240217 20251024
+execute
+delete 20250308
+move 20251102 20250705
+add Tarea_5595 20240526
+delete 20250705
+execute
+delete 20241224
+move 20240911 20250318
+discard
+execute
+delete 20240228
+execute
+execute
+execute
+delete 20240624
+execute
+delete 20251024
+delete 20240526
+discard
+move 20250318 20250717
+execute
+add Tarea_5613 20251024
+add Tarea_5614 20250601
+delete 20250717
+delete 20251024
+move 20250601 20240722
+move 20240722 20240601
+discard
+discard
+move 20240601 20240807
+add Tarea_5622 20250121
+add Tarea_5623 20251126
+discard
+add Tarea_5625 20250822
+execute
+discard
+add Tarea_5628 20240111
+delete 20251126
+execute
+move 20240111 20250808
+move 20240807 20250612
+add Tarea_5633 20240228
+execute
+move 20250612 20251102
+execute
+execute
+add Tarea_5638 20250305
+move 20250822 20240315
+discard
+delete 20240315
+add Tarea_5642 20250924
+add Tarea_5643 20250520
+discard
+discard
+move 20250305 20250425
+delete 20250121
+execute
+add Tarea_5649 20241221
+delete 20250520
+discard
+delete 20250808
+delete 20240228
+delete 20250425
+delete 20241221
+discard
+move 20250924 20250814
+discard
+add Tarea_5659 20240913
+move 20251102 20240711
+discard
+delete 20250814
+execute
+discard
+discard
+discard
+delete 20240913
+move 20240711 20251012
+discard
+discard
+discard
+discard
+execute
+delete 20251012
+execute
+execute
+add Tarea_5677 20240414
+add Tarea_5678 20250427
+execute
+move 20250427 20250124
+move 20250124 20250112
+execute
+execute
+move 20250112 20250315
+add Tarea_5685 20251218
+execute
+add Tarea_5687 20251214
+discard
+move 20250315 20241206
+add Tarea_5690 20251226
+add Tarea_5691 20240703
+add Tarea_5692 20250818
+move 20241206 20240111
+add Tarea_5694 20250708
+add Tarea_5695 20240419
+move 20240111 20240126
+add Tarea_5697 20240509
+delete 20251226
+add Tarea_5699 20251222
+execute
+discard
+add Tarea_5702 20240316
+move 20240419 20241203
+move 20240703 20250719
+discard
+execute
+execute
+add Tarea_5708 20240909
+discard
+delete 20251214
+delete 20251218
+add Tarea_5712 20250215
+discard
+delete 20250719
+add Tarea_5715 20250803
+discard
+discard
+discard
+delete 20241203
+delete 20250818
+discard
+execute
+move 20250215 20241005
+discard
+execute
+move 20241005 20240902
+move 20250708 20250605
+move 20240902 20240621
+delete 20240909
+move 20240316 20240601
+add Tarea_5731 20240728
+add Tarea_5732 20250212
+delete 20250605
+move 20250212 20240822
+execute
+discard
+delete 20240414
+add Tarea_5738 20250515
+add Tarea_5739 20250127
+delete 20240126
+discard
+move 20251222 20250407
+delete 20240728
+delete 20250515
+discard
+add Tarea_5746 20250819
+execute
+add Tarea_5748 20250404
+discard
+discard
+add Tarea_5751 20240724
+delete 20250819
+delete 20240822
+add Tarea_5754 20240407
+discard
+execute
+discard
+move 20250404 20240316
+delete 20240724
+delete 20240601
+add Tarea_5761 20240510
+execute
+delete 20250803
+add Tarea_5764 20250904
+add Tarea_5765 20240602
+execute
+execute
+execute
+move 20240316 20240620
+move 20240509 20250224
+delete 20250127
+move 20240621 20240820
+delete 20250407
+execute
+move 20240510 20240614
+discard
+discard
+discard
+add Tarea_5779 20250306
+execute
+discard
+move 20250224 20251205
+delete 20240820
+discard
+add Tarea_5785 20251107
+delete 20251107
+add Tarea_5787 20240101
+add Tarea_5788 20240401
+delete 20240614
+execute
+add Tarea_5791 20241119
+add Tarea_5792 20240302
+delete 20250904
+move 20240302 20240501
+delete 20251205
+delete 20240602
+discard
+add Tarea_5798 20240705
+add Tarea_5799 20240714
+add Tarea_5800 20250210
+delete 20250210
+move 20240401 20241001
+add Tarea_5803 20250210
+delete 20240501
+add Tarea_5805 20250104
+execute
+delete 20240714
+discard
+discard
+delete 20250306
+execute
+execute
+execute
+add Tarea_5814 20251226
+discard
+discard
+move 20240620 20250327
+add Tarea_5818 20250203
+execute
+execute
+execute
+add Tarea_5822 20251026
+delete 20250203
+discard
+discard
+add Tarea_5826 20250404
+execute
+delete 20251226
+add Tarea_5829 20250612
+delete 20240705
+execute
+move 20240407 20251012
+delete 20251012
+execute
+move 20250104 20240717
+move 20241001 20240116
+move 20240101 20240120
+move 20241119 20250104
+move 20250210 20251021
+delete 20240116
+discard
+delete 20251021
+execute
+add Tarea_5844 20240502
+delete 20251026
+discard
+delete 20250612
+delete 20240502
+execute
+delete 20250104
+add Tarea_5851 20240224
+delete 20240120
+discard
+execute
+move 20240717 20250217
+discard
+execute
+add Tarea_5858 20250915
+move 20250327 20250902
+discard
+execute
+add Tarea_5862 20241006
+discard
+add Tarea_5864 20250113
+delete 20241006
+move 20250217 20251213
+execute
+add Tarea_5868 20250918
+add Tarea_5869 20251024
+execute
+execute
+execute
+delete 20251213
+discard
+add Tarea_5875 20241113
+execute
+delete 20250404
+move 20250902 20240817
+delete 20251024
+add Tarea_5880 20251127
+execute
+discard
+execute
+move 20240224 20251102
+delete 20250918
+execute
+add Tarea_5887 20240525
+add Tarea_5888 20240302
+execute
+discard
+discard
+move 20240525 20250207
+discard
+delete 20251102
+move 20251127 20240610
+move 20240817 20250423
+discard
+move 20240302 20240127
+discard
+move 20250113 20241221
+move 20241221 20240628
+execute
+move 20250423 20240513
+move 20240610 20240923
+move 20240628 20250521
+move 20240923 20240807
+delete 20240807
+add Tarea_5908 20241028
+move 20250207 20250204
+discard
+delete 20250915
+discard
+add Tarea_5913 20241017
+execute
+add Tarea_5915 20240810
+execute
+move 20241028 20240702
+move 20250521 20250406
+discard
+move 20250406 20240603
+delete 20241017
+delete 20240810
+add Tarea_5923 20240201
+move 20240603 20240110
+move 20240201 20240601
+add Tarea_5926 20250702
+execute
+delete 20250702
+move 20240601 20240425
+discard
+delete 20240110
+delete 20240127
+execute
+execute
+delete 20250204
+execute
+execute
+delete 20240702
+execute
+execute
+add Tarea_5941 20240209
+delete 20240425
+delete 20240513
+add Tarea_5944 20250120
+add Tarea_5945 20250621
+move 20250621 20250302
+add Tarea_5947 20240415
+delete 20240209
+discard
+move 20250120 20241216
+add Tarea_5951 20240907
+execute
+add Tarea_5953 20240119
+execute
+execute
+delete 20241216
+move 20240907 20250419
+discard
+add Tarea_5959 20250407
+move 20241113 20240718
+move 20240718 20240721
+move 20240721 20240103
+add Tarea_5963 20250902
+delete 20250419
+discard
+execute
+discard
+delete 20250302
+execute
+add Tarea_5970 20241128
+discard
+move 20241128 20240227
+move 20240103 20251004
+execute
+move 20240119 20240215
+add Tarea_5976 20240606
+add Tarea_5977 20250217
+move 20240415 20251221
+discard
+add Tarea_5980 20250528
+move 20250217 20250105
+move 20250407 20251116
+add Tarea_5983 20240820
+add Tarea_5984 20250408
+delete 20240227
+execute
+discard
+execute
+delete 20250408
+move 20250105 20240115
+move 20240115 20250706
+delete 20250902
+delete 20251221
+add Tarea_5994 20240823
+move 20240823 20250819
+add Tarea_5996 20250726
+add Tarea_5997 20240615
+discard
+move 20250706 20250316
+move 20240215 20250404
+execute
+execute
+discard
+discard
+move 20240820 20250902
+move 20240606 20240104
+add Tarea_6007 20241221
+move 20250819 20250602
+discard
+move 20251004 20251212
+discard
+move 20250902 20240727
+execute
+discard
+execute
+execute
+move 20250316 20240624
+execute
+discard
+add Tarea_6020 20240627
+add Tarea_6021 20240607
+add Tarea_6022 20240507
+execute
+execute
+discard
+add Tarea_6026 20240227
+discard
+move 20251116 20240926
+discard
+add Tarea_6030 20240611
+execute
+execute
+discard
+delete 20250404
+discard
+add Tarea_6036 20251002
+discard
+move 20250602 20241011
+move 20240615 20240415
+move 20240926 20251015
+add Tarea_6041 20250516
+execute
+execute
+discard
+discard
+delete 20240611
+move 20250528 20241206
+delete 20251002
+delete 20240624
+discard
+add Tarea_6051 20240508
+execute
+delete 20240104
+add Tarea_6054 20250602
+add Tarea_6055 20240920
+discard
+add Tarea_6057 20250615
+add Tarea_6058 20251107
+delete 20240727
+discard
+delete 20250615
+add Tarea_6062 20240616
+move 20241221 20250213
+discard
+discard
+discard
+move 20240415 20240713
+delete 20240508
+discard
+add Tarea_6070 20250107
+execute
+execute
+execute
+move 20241206 20251206
+move 20240227 20250118
+move 20241011 20250718
+execute
+discard
+execute
+discard
+add Tarea_6081 20250616
+discard
+execute
+discard
+execute
+delete 20240627
+discard
+move 20240607 20250301
+execute
+delete 20250301
+discard
+delete 20250516
+discard
+move 20251107 20250417
+add Tarea_6095 20250703
+move 20240616 20240501
+discard
+move 20240713 20241106
+execute
+discard
+execute
+delete 20251212
+discard
+delete 20250602
+move 20240501 20251202
+discard
+add Tarea_6107 20240422
+move 20250726 20240412
+execute
+add Tarea_6110 20240724
+discard
+add Tarea_6112 20250610
+move 20250118 20240718
+execute
+discard
+discard
+discard
+discard
+move 20241106 20251106
+execute
+discard
+add Tarea_6122 20250520
+move 20240422 20250811
+delete 20250417
+move 20250213 20250303
+add Tarea_6126 20250902
+delete 20251015
+discard
+add Tarea_6129 20250118
+move 20240724 20251016
+execute
+delete 20250520
+discard
+add Tarea_6134 20250813
+discard
+delete 20250616
+add Tarea_6137 20240214
+execute
+execute
+delete 20240507
+delete 20250610
+execute
+execute
+execute
+discard
+move 20240214 20240521
+move 20251106 20250102
+discard
+add Tarea_6149 20251114
+execute
+delete 20250811
+delete 20240521
+add Tarea_6153 20240218
+move 20250718 20251227
+execute
+discard
+delete 20250813
+move 20251114 20250426
+move 20251206 20241019
+delete 20240920
+execute
+discard
+delete 20251227
+delete 20240718
+execute
+discard
+add Tarea_6167 20250812
+add Tarea_6168 20240923
+discard
+discard
+move 20240218 20250808
+delete 20250808
+move 20250902 20241124
+discard
+discard
+add Tarea_6176 20240916
+move 20241124 20240105
+discard
+discard
+add Tarea_6180 20250614
+move 20250118 20241106
+add Tarea_6182 20240802
+execute
+add Tarea_6184 20240616
+delete 20250614
+delete 20250426
+execute
+delete 20251202
+execute
+discard
+discard
+discard
+move 20240802 20250709
+add Tarea_6194 20240119
+add Tarea_6195 20241121
+add Tarea_6196 20240528
+move 20240616 20250605
+move 20241121 20250525
+move 20250812 20240813
+discard
+execute
+add Tarea_6202 20250717
+move 20240916 20251227
+delete 20240412
+move 20241019 20250121
+discard
+add Tarea_6207 20250924
+add Tarea_6208 20251211
+add Tarea_6209 20240721
+move 20250605 20240817
+discard
+add Tarea_6212 20240506
+discard
+move 20240813 20241004
+move 20241106 20240705
+discard
+execute
+move 20250703 20240519
+discard
+add Tarea_6220 20240612
+add Tarea_6221 20250903
+add Tarea_6222 20240605
+discard
+delete 20240105
+move 20250709 20240526
+delete 20250102
+add Tarea_6227 20251116
+discard
+move 20250903 20250920
+move 20250303 20240326
+execute
+discard
+move 20251116 20250307
+discard
+discard
+move 20241004 20251005
+discard
+discard
+discard
+delete 20250107
+discard
+discard
+delete 20251005
+execute
+add Tarea_6245 20240215
+execute
+delete 20240526
+move 20240605 20250622
+execute
+delete 20250924
+execute
+move 20240119 20251024
+delete 20251211
+discard
+move 20251024 20251114
+discard
+discard
+add Tarea_6258 20241110
+discard
+execute
+delete 20240721
+move 20250622 20250313
+discard
+execute
+add Tarea_6265 20250825
+move 20250525 20251014
+delete 20240817
+execute
+discard
+discard
+add Tarea_6271 20241105
+discard
+move 20240923 20250223
+execute
+move 20240506 20250811
+discard
+add Tarea_6277 20240713
+add Tarea_6278 20250626
+discard
+discard
+execute
+discard
+move 20251014 20240611
+move 20240528 20240221
+delete 20240611
+execute
+move 20250223 20250718
+discard
+discard
+add Tarea_6290 20251126
+discard
+delete 20240326
+execute
+execute
+move 20241110 20250308
+delete 20250626
+delete 20250308
+execute
+execute
+discard
+discard
+move 20251227 20251220
+move 20251114 20241124
+delete 20251220
+move 20241124 20240820
+move 20250718 20250925
+add Tarea_6307 20240527
+delete 20241105
+delete 20250307
+delete 20240612
+delete 20250717
+execute
+execute
+delete 20240215
+delete 20250121
+execute
+move 20240705 20240503
+discard
+discard
+discard
+execute
+move 20240221 20251123
+move 20250920 20250423
+execute
+move 20250811 20240302
+delete 20251016
+move 20240503 20241027
+execute
+move 20240820 20251102
+discard
+add Tarea_6331 20240905
+execute
+add Tarea_6333 20240710
+add Tarea_6334 20240222
+move 20250423 20251117
+discard
+execute
+discard
+move 20240527 20241108
+add Tarea_6340 20251111
+execute
+discard
+discard
+discard
+discard
+move 20240302 20250728
+add Tarea_6347 20250204
+add Tarea_6348 20240322
+delete 20251126
+execute
+discard
+delete 20250925
+add Tarea_6353 20240213
+execute
+delete 20240213
+discard
+move 20250204 20240806
+discard
+execute
+add Tarea_6360 20250309
+discard
+delete 20240710
+move 20241027 20250710
+execute
+add Tarea_6365 20240523
+delete 20240222
+execute
+add Tarea_6368 20250221
+discard
+delete 20241108
+execute
+move 20251117 20240214
+move 20240806 20250112
+add Tarea_6374 20241108
+move 20240322 20250124
+move 20250710 20240418
+add Tarea_6377 20240922
+delete 20250728
+move 20250112 20240617
+add Tarea_6380 20240507
+discard
+discard
+move 20251123 20250312
+delete 20240617
+add Tarea_6385 20241020
+move 20240418 20250308
+execute
+move 20250312 20240607
+execute
+execute
+discard
+add Tarea_6392 20240706
+add Tarea_6393 20240804
+execute
+delete 20250313
+add Tarea_6396 20241026
+delete 20241020
+add Tarea_6398 20240807
+add Tarea_6399 20251126
+execute
+move 20240519 20240117
+execute
+execute
+execute
+discard
+move 20251111 20240710
+add Tarea_6407 20240827
+move 20240713 20240819
+execute
+add Tarea_6410 20251003
+delete 20240706
+execute
+add Tarea_6413 20240823
+execute
+discard
+discard
+execute
+add Tarea_6418 20250112
+execute
+move 20250124 20250612
+add Tarea_6421 20250415
+delete 20250308
+delete 20240823
+execute
+move 20240710 20240421
+delete 20250612
+execute
+execute
+move 20240507 20250815
+add Tarea_6430 20250817
+add Tarea_6431 20240403
+discard
+move 20240214 20240506
+delete 20250221
+execute
+add Tarea_6436 20240902
+execute
+execute
+delete 20250817
+discard
+discard
+delete 20240922
+move 20240506 20240612
+add Tarea_6444 20241205
+add Tarea_6445 20250618
+delete 20241205
+delete 20240804
+delete 20240607
+delete 20240421
+move 20250112 20240221
+discard
+move 20251126 20250303
+execute
+delete 20240117
+discard
+add Tarea_6456 20240314
+discard
+execute
+delete 20250303
+discard
+delete 20240807
+add Tarea_6462 20250326
+execute
+discard
+move 20240819 20250805
+delete 20250815
+move 20241026 20250321
+add Tarea_6468 20250710
+add Tarea_6469 20240124
+move 20250326 20240203
+discard
+add Tarea_6472 20241216
+move 20250321 20240125
+delete 20240124
+move 20240523 20250420
+delete 20240125
+delete 20250309
+add Tarea_6478 20250818
+delete 20240203
+discard
+add Tarea_6481 20251215
+delete 20250825
+discard
+add Tarea_6484 20251010
+add Tarea_6485 20240625
+discard
+execute
+execute
+move 20240403 20250603
+execute
+delete 20240314
+execute
+add Tarea_6493 20240512
+delete 20240902
+execute
+move 20250710 20240407
+delete 20250415
+add Tarea_6498 20240820
+add Tarea_6499 20250502
+add Tarea_6500 20251202
+move 20250818 20240424
+execute
+execute
+delete 20250805
+delete 20240407
+delete 20241108
+delete 20240625
+delete 20251003
+move 20251215 20240218
+execute
+move 20240512 20240416
+move 20250603 20240723
+move 20251102 20241222
+delete 20250618
+discard
+execute
+execute
+add Tarea_6518 20251005
+move 20240416 20241020
+move 20240905 20240926
+discard
+execute
+delete 20240218
+add Tarea_6524 20250517
+delete 20250502
+move 20251202 20240709
+execute
+discard
+delete 20240709
+execute
+move 20240723 20240721
+delete 20240612
+execute
+discard
+add Tarea_6535 20240217
+execute
+move 20240926 20241220
+delete 20240217
+move 20240424 20240120
+add Tarea_6540 20240915
+delete 20240827
+add Tarea_6542 20250826
+delete 20251005
+delete 20241020
+delete 20251010
+discard
+execute
+execute
+discard
+add Tarea_6550 20250823
+execute
+move 20241216 20250403
+execute
+delete 20240120
+delete 20241220
+execute
+move 20240721 20240109
+move 20241222 20250911
+add Tarea_6559 20240422
+discard
+delete 20240109
+discard
+discard
+delete 20240915
+add Tarea_6565 20240215
+discard
+move 20250823 20250727
+add Tarea_6568 20240122
+delete 20250420
+execute
+add Tarea_6571 20240906
+move 20250826 20240504
+move 20250403 20240524
+delete 20240122
+move 20240504 20240507
+discard
+move 20250911 20250622
+execute
+discard
+execute
+execute
+delete 20250727
+execute
+delete 20240507
+move 20240221 20250421
+delete 20250517
+discard
+delete 20240524
+discard
+execute
+execute
+delete 20250421
+execute
+discard
+add Tarea_6595 20240910
+delete 20240820
+execute
+execute
+add Tarea_6599 20250218
+add Tarea_6600 20240819
+delete 20240422
+execute
+move 20250622 20240511
+discard
+discard
+move 20240910 20250808
+move 20250218 20240316
+discard
+delete 20240511
+delete 20240316
+discard
+delete 20240819
+discard
+discard
+move 20240906 20240817
+discard
+execute
+discard
+add Tarea_6619 20250924
+add Tarea_6620 20250427
+move 20240817 20250510
+delete 20250427
+execute
+add Tarea_6624 20250802
+execute
+move 20250802 20250614
+delete 20250614
+add Tarea_6628 20250710
+move 20240215 20250421
+execute
+delete 20250710
+move 20250808 20240413
+execute
+delete 20250924
+delete 20250421
+add Tarea_6636 20240116
+discard
+move 20250510 20240713
+move 20240413 20251203
+move 20251203 20240323
+delete 20240713
+discard
+execute
+move 20240116 20240411
+execute
+delete 20240411
+delete 20240323
+discard
+execute
+add Tarea_6653 20240116
+move 20240116 20240118
+add Tarea_6655 20250628
+delete 20240118
+discard
+move 20250628 20240208
+move 20240208 20250211
+discard
+move 20250211 20240117
+execute
+move 20240117 20241016
+delete 20241016
+discard
+execute
+add Tarea_6667 20241204
+discard
+move 20241204 20241223
+execute
+add Tarea_6671 20240128
+execute
+add Tarea_6673 20251228
+add Tarea_6674 20251104
+execute
+move 20251104 20250824
+move 20250824 20251010
+discard
+move 20240128 20240628
+add Tarea_6680 20241208
+execute
+execute
+move 20251228 20240906
+move 20241208 20241216
+move 20241223 20240521
+discard
+execute
+add Tarea_6688 20250208
+add Tarea_6689 20240920
+add Tarea_6690 20250712
+delete 20250208
+move 20240521 20250306
+delete 20241216
+execute
+discard
+discard
+delete 20240628
+execute
+move 20250306 20250508
+execute
+discard
+execute
+execute
+delete 20250508
+delete 20251010
+execute
+discard
+move 20240906 20250115
+delete 20240920
+delete 20250115
+move 20250712 20251121
+discard
+delete 20251121
+add Tarea_6716 20250911
+discard
+delete 20250911
+execute
+execute
+execute
+discard
+execute
+execute
+discard
+discard
+execute
+discard
+execute
+discard
+execute
+add Tarea_6740 20240602
+execute
+delete 20240602
+discard
+execute
+add Tarea_6746 20250528
+execute
+delete 20250528
+discard
+execute
+discard
+add Tarea_6753 20250514
+add Tarea_6754 20240227
+execute
+execute
+add Tarea_6757 20241002
+discard
+discard
+move 20240227 20241102
+add Tarea_6761 20241119
+delete 20241102
+execute
+add Tarea_6764 20241106
+add Tarea_6765 20240827
+execute
+move 20250514 20250215
+discard
+discard
+add Tarea_6770 20240822
+execute
+execute
+move 20241119 20241016
+delete 20250215
+discard
+delete 20241002
+discard
+delete 20240827
+execute
+move 20241016 20241121
+discard
+discard
+discard
+add Tarea_6784 20250118
+move 20241121 20250522
+add Tarea_6786 20240814
+move 20250522 20250913
+add Tarea_6788 20251116
+move 20241106 20251008
+move 20251008 20241112
+add Tarea_6791 20250521
+add Tarea_6792 20250713
+discard
+add Tarea_6794 20240619
+discard
+discard
+add Tarea_6797 20240711
+discard
+execute
+delete 20240814
+move 20250913 20250428
+add Tarea_6802 20251015
+delete 20251015
+add Tarea_6804 20240926
+delete 20240926
+add Tarea_6806 20251009
+discard
+delete 20240822
+discard
+add Tarea_6810 20240308
+discard
+execute
+move 20250521 20250911
+discard
+discard
+add Tarea_6816 20250913
+discard
+delete 20250713
+execute
+discard
+discard
+move 20240619 20250103
+execute
+execute
+delete 20250911
+move 20250913 20240619
+add Tarea_6827 20240204
+move 20240308 20240217
+discard
+move 20250428 20251210
+delete 20250103
+discard
+move 20251009 20240810
+add Tarea_6834 20240804
+add Tarea_6835 20250620
+discard
+discard
+discard
+add Tarea_6839 20241009
+discard
+discard
+execute
+discard
+delete 20240711
+add Tarea_6845 20251216
+execute
+move 20240810 20250326
+execute
+move 20241112 20250507
+delete 20240217
+delete 20240804
+discard
+execute
+delete 20250620
+discard
+execute
+execute
+delete 20240204
+add Tarea_6859 20250703
+delete 20250118
+move 20250703 20250105
+execute
+discard
+delete 20240619
+discard
+move 20250507 20240720
+move 20250326 20240515
+execute
+execute
+execute
+execute
+add Tarea_6872 20250104
+add Tarea_6873 20240728
+move 20250105 20241105
+discard
+delete 20241105
+discard
+delete 20251216
+move 20241009 20250319
+execute
+delete 20250104
+add Tarea_6882 20240321
+discard
+delete 20250319
+add Tarea_6885 20250728
+add Tarea_6886 20241117
+move 20250728 20240910
+delete 20251116
+delete 20251210
+add Tarea_6890 20250718
+move 20240728 20240605
+add Tarea_6892 20240727
+add Tarea_6893 20250916
+move 20250916 20240513
+delete 20240515
+delete 20241117
+execute
+delete 20240321
+add Tarea_6899 20240817
+delete 20250718
+add Tarea_6901 20250201
+add Tarea_6902 20241224
+delete 20240910
+delete 20250201
+add Tarea_6905 20250627
+discard
+move 20240513 20240622
+execute
+move 20240720 20241106
+delete 20240605
+discard
+discard
+delete 20240817
+move 20241224 20240623
+move 20240623 20240802
+add Tarea_6916 20240412
+add Tarea_6917 20240118
+execute
+add Tarea_6919 20250904
+move 20240802 20250821
+move 20240412 20240820
+discard
+delete 20240622
+execute
+move 20240727 20250610
+delete 20250821
+move 20241106 20240710
+add Tarea_6928 20241006
+move 20240820 20241102
+move 20240710 20240110
+execute
+add Tarea_6932 20240323
+move 20240118 20241107
+move 20250904 20240825
+delete 20240825
+add Tarea_6936 20250408
+move 20241102 20240804
+delete 20250610
+add Tarea_6939 20240217
+delete 20240323
+move 20240217 20251212
+move 20240804 20240923
+discard
+execute
+move 20250627 20240627
+execute
+add Tarea_6947 20240514
+move 20251212 20250616
+move 20250616 20240712
+move 20240110 20251203
+add Tarea_6951 20240503
+execute
+move 20240923 20250505
+add Tarea_6954 20250801
+add Tarea_6955 20250907
+move 20250505 20250327
+delete 20251203
+add Tarea_6958 20250619
+execute
+move 20241006 20240825
+move 20240712 20240311
+discard
+move 20250327 20250106
+execute
+add Tarea_6965 20240307
+execute
+discard
+add Tarea_6968 20240922
+execute
+execute
+discard
+discard
+execute
+discard
+move 20250907 20240413
+delete 20250801
+add Tarea_6977 20240517
+discard
+delete 20240503
+discard
+execute
+move 20250106 20240515
+add Tarea_6983 20250925
+add Tarea_6984 20241127
+add Tarea_6985 20250306
+add Tarea_6986 20250125
+execute
+add Tarea_6988 20241206
+execute
+delete 20241206
+add Tarea_6991 20240827
+discard
+delete 20240627
+execute
+delete 20240413
+add Tarea_6996 20240109
+execute
+execute
+execute
+move 20240517 20240511
+discard
+delete 20240825
+add Tarea_7003 20250617
+add Tarea_7004 20250622
+move 20241127 20240224
+discard
+delete 20240515
+move 20250619 20240410
+discard
+discard
+execute
+move 20240827 20240507
+discard
+add Tarea_7014 20250811
+delete 20240224
+discard
+add Tarea_7017 20240715
+discard
+execute
+move 20241107 20240628
+execute
+execute
+add Tarea_7023 20240502
+add Tarea_7024 20251004
+add Tarea_7025 20250116
+move 20250622 20250709
+delete 20250925
+move 20250125 20240426
+delete 20240307
+discard
+delete 20240426
+discard
+move 20240410 20240605
+delete 20250709
+execute
+move 20250408 20251119
+add Tarea_7037 20240521
+add Tarea_7038 20250208
+discard
+add Tarea_7040 20240312
+add Tarea_7041 20251228
+execute
+add Tarea_7043 20250402
+execute
+add Tarea_7045 20250609
+execute
+delete 20240502
+move 20250306 20240115
+discard
+add Tarea_7050 20250726
+execute
+add Tarea_7052 20240404
+execute
+add Tarea_7054 20241012
+delete 20251228
+add Tarea_7056 20250612
+move 20240605 20240212
+discard
+discard
+delete 20240109
+delete 20250617
+execute
+move 20241012 20241010
+discard
+move 20240115 20240409
+discard
+execute
+add Tarea_7068 20240606
+discard
+discard
+delete 20251119
+add Tarea_7072 20240415
+discard
+delete 20250208
+delete 20240312
+add Tarea_7076 20241013
+delete 20240415
+execute
+add Tarea_7079 20240910
+delete 20240212
+discard
+discard
+execute
+discard
+discard
+move 20241010 20250314
+move 20250609 20241104
+delete 20250402
+discard
+execute
+execute
+add Tarea_7092 20250918
+move 20240311 20250224
+execute
+discard
+delete 20250918
+execute
+move 20250224 20250502
+delete 20240606
+move 20251004 20250308
+move 20240514 20240316
+delete 20240511
+move 20241104 20250701
+delete 20240715
+discard
+delete 20240521
+discard
+discard
+discard
+add Tarea_7110 20251010
+move 20240409 20250104
+execute
+add Tarea_7113 20251212
+discard
+discard
+execute
+move 20240628 20250618
+delete 20240404
+execute
+execute
+execute
+delete 20240922
+move 20240507 20241121
+move 20240910 20240319
+move 20250726 20250518
+move 20251212 20250820
+add Tarea_7127 20251124
+execute
+add Tarea_7129 20250817
+discard
+execute
+discard
+discard
+discard
+add Tarea_7135 20240227
+execute
+move 20250104 20240413
+move 20250618 20250709
+delete 20250314
+discard
+execute
+delete 20250820
+execute
+move 20240316 20250320
+discard
+execute
+move 20250612 20241114
+add Tarea_7148 20250526
+execute
+discard
+move 20250811 20251121
+add Tarea_7152 20241105
+delete 20250320
+discard
+discard
+move 20250116 20240125
+add Tarea_7157 20250212
+delete 20250502
+execute
+add Tarea_7160 20250613
+delete 20241114
+delete 20250212
+delete 20250817
+add Tarea_7164 20250228
+move 20240227 20240421
+move 20250709 20250416
+execute
+discard
+execute
+delete 20251010
+delete 20241105
+move 20251121 20251218
+discard
+move 20241013 20240128
+discard
+execute
+delete 20241121
+discard
+discard
+delete 20250518
+discard
+discard
+delete 20250416
+add Tarea_7184 20250216
+execute
+delete 20250613
+delete 20251124
+delete 20250228
+discard
+delete 20240125
+add Tarea_7191 20250306
+delete 20250306
+move 20240128 20251020
+add Tarea_7194 20240104
+execute
+execute
+discard
+delete 20251218
+add Tarea_7199 20250422
+discard
+add Tarea_7201 20250202
+add Tarea_7202 20250111
+delete 20240413
+delete 20240319
+move 20250422 20251124
+delete 20250526
+execute
+move 20250202 20250105
+add Tarea_7209 20240128
+execute
+move 20250216 20250811
+add Tarea_7212 20250511
+execute
+execute
+add Tarea_7215 20240327
+add Tarea_7216 20241104
+discard
+add Tarea_7218 20250909
+add Tarea_7219 20240302
+discard
+add Tarea_7221 20241127
+delete 20241127
+discard
+delete 20250811
+move 20250111 20250813
+discard
+move 20250105 20240218
+delete 20251020
+add Tarea_7229 20251016
+add Tarea_7230 20250416
+add Tarea_7231 20240214
+discard
+add Tarea_7233 20250828
+discard
+discard
+add Tarea_7236 20250820
+add Tarea_7237 20250212
+move 20250909 20250507
+execute
+execute
+execute
+add Tarea_7242 20250128
+delete 20240302
+delete 20250128
+add Tarea_7245 20250725
+add Tarea_7246 20250823
+move 20250820 20240127
+add Tarea_7248 20240818
+add Tarea_7249 20241014
+discard
+delete 20240127
+add Tarea_7252 20250210
+move 20250725 20241211
+delete 20241014
+delete 20250308
+delete 20250511
+execute
+execute
+discard
+discard
+delete 20240327
+execute
+add Tarea_7263 20240826
+delete 20241104
+move 20250701 20251112
+move 20251016 20240605
+execute
+add Tarea_7268 20240718
+execute
+delete 20250828
+discard
+add Tarea_7272 20241004
+discard
+discard
+move 20250416 20250114
+move 20240128 20251117
+move 20240218 20250812
+discard
+execute
+execute
+delete 20240104
+delete 20250212
+delete 20240818
+execute
+discard
+discard
+execute
+discard
+delete 20240718
+execute
+move 20250114 20240220
+delete 20250210
+discard
+move 20251117 20240405
+move 20240605 20240916
+move 20250812 20241027
+discard
+delete 20240220
+move 20240405 20241011
+execute
+move 20241211 20241113
+add Tarea_7302 20241015
+discard
+move 20240214 20240204
+add Tarea_7305 20251206
+discard
+delete 20241015
+discard
+discard
+add Tarea_7310 20251127
+move 20241113 20250227
+delete 20251112
+delete 20240826
+move 20241004 20250626
+execute
+execute
+add Tarea_7317 20240616
+execute
+execute
+add Tarea_7320 20240515
+delete 20240421
+add Tarea_7322 20240704
+execute
+add Tarea_7324 20240203
+discard
+delete 20240704
+execute
+add Tarea_7328 20241026
+discard
+discard
+add Tarea_7331 20250106
+move 20250106 20250527
+move 20240916 20240428
+delete 20241026
+execute
+add Tarea_7336 20251211
+add Tarea_7337 20251114
+move 20240616 20250727
+add Tarea_7339 20240920
+add Tarea_7340 20241208
+execute
+discard
+add Tarea_7343 20241016
+execute
+move 20250727 20250127
+discard
+discard
+discard
+add Tarea_7349 20250217
+discard
+add Tarea_7351 20240818
+delete 20241011
+execute
+delete 20241208
+add Tarea_7355 20250302
+discard
+move 20240204 20250425
+execute
+move 20250425 20250213
+add Tarea_7360 20241115
+execute
+discard
+execute
+add Tarea_7364 20241010
+discard
+add Tarea_7366 20250503
+move 20241115 20240728
+execute
+execute
+delete 20250527
+move 20241027 20241210
+move 20250503 20251225
+delete 20241010
+move 20241016 20241122
+discard
+move 20251225 20250606
+add Tarea_7377 20250326
+execute
+move 20250606 20250901
+execute
+discard
+discard
+execute
+discard
+delete 20250302
+execute
+add Tarea_7387 20240408
+add Tarea_7388 20240102
+delete 20250213
+discard
+add Tarea_7391 20240817
+delete 20250227
+delete 20251124
+execute
+move 20240818 20250726
+move 20240728 20241206
+add Tarea_7397 20250915
+discard
+delete 20251206
+discard
+move 20240515 20240325
+delete 20241122
+discard
+move 20251127 20251007
+execute
+discard
+move 20250326 20240519
+discard
+move 20240519 20240527
+add Tarea_7410 20240505
+delete 20240505
+execute
+discard
+discard
+execute
+execute
+add Tarea_7417 20241023
+move 20250127 20250425
+add Tarea_7419 20250613
+move 20240203 20241128
+execute
+add Tarea_7422 20240125
+discard
+delete 20251211
+execute
+execute
+add Tarea_7427 20251001
+discard
+delete 20250901
+discard
+add Tarea_7431 20241221
+discard
+discard
+add Tarea_7434 20240109
+move 20240102 20250806
+discard
+discard
+move 20240920 20251019
+delete 20240109
+execute
+delete 20240125
+move 20240428 20241012
+add Tarea_7443 20250621
+discard
+delete 20250726
+move 20250217 20240220
+delete 20250621
+discard
+execute
+delete 20250613
+delete 20241023
+discard
+execute
+delete 20250425
+add Tarea_7455 20251119
+move 20251019 20251226
+delete 20251226
+move 20240817 20240818
+delete 20251001
+add Tarea_7460 20241202
+add Tarea_7461 20251024
+move 20241202 20250510
+add Tarea_7463 20250619
+execute
+execute
+add Tarea_7466 20251112
+delete 20240325
+add Tarea_7468 20250912
+discard
+execute
+move 20250823 20250102
+discard
+discard
+delete 20251119
+add Tarea_7475 20240312
+discard
+move 20250806 20240410
+discard
+discard
+move 20250912 20251128
+delete 20240818
+discard
+delete 20240220
+execute
+delete 20251128
+move 20250813 20251217
+move 20250619 20250106
+move 20241012 20250306
+delete 20250507
+discard
+add Tarea_7491 20240928
+delete 20241221
+discard
+delete 20241210
+execute
+move 20250102 20241209
+move 20250306 20250419
+delete 20250915
+move 20240408 20241227
+add Tarea_7500 20240523
+delete 20251024
+delete 20240312
+discard
+discard
+execute
+execute
+execute
+add Tarea_7508 20240127
+delete 20240523
+discard
+execute
+discard
+move 20250419 20240305
+add Tarea_7514 20240817
+execute
+delete 20251112
+discard
+add Tarea_7518 20241124
+discard
+execute
+add Tarea_7521 20250602
+execute
+add Tarea_7523 20250323
+execute
+execute
+discard
+delete 20251114
+execute
+add Tarea_7529 20251002
+delete 20250602
+discard
+move 20240305 20241102
+execute
+add Tarea_7534 20250925
+discard
+discard
+execute
+delete 20250925
+add Tarea_7539 20250523
+move 20251217 20250604
+delete 20240527
+move 20241209 20241103
+execute
+discard
+execute
+move 20251007 20240508
+discard
+discard
+move 20241128 20240225
+delete 20241102
+execute
+add Tarea_7552 20250301
+add Tarea_7553 20240311
+delete 20250301
+add Tarea_7555 20241002
+delete 20250323
+add Tarea_7557 20251214
+delete 20241103
+execute
+delete 20240225
+move 20240311 20240607
+move 20250626 20250304
+delete 20240928
+add Tarea_7564 20250710
+delete 20240127
+add Tarea_7566 20240823
+move 20240410 20250509
+delete 20250604
+discard
+execute
+discard
+discard
+execute
+move 20250509 20240104
+execute
+move 20251214 20251006
+delete 20250510
+move 20241206 20251105
+move 20241124 20250801
+add Tarea_7580 20240819
+move 20251105 20240925
+discard
+execute
+delete 20240508
+discard
+delete 20240817
+move 20240819 20250804
+delete 20250801
+execute
+execute
+add Tarea_7591 20240410
+delete 20250523
+execute
+execute
+delete 20250710
+move 20240410 20240121
+move 20251006 20250809
+execute
+add Tarea_7599 20250507
+discard
+execute
+delete 20240607
+add Tarea_7603 20240719
+move 20250507 20251104
+execute
+add Tarea_7606 20240713
+discard
+add Tarea_7608 20240301
+add Tarea_7609 20240110
+discard
+add Tarea_7611 20250914
+execute
+add Tarea_7613 20240207
+discard
+add Tarea_7615 20241207
+discard
+move 20250304 20240113
+execute
+move 20240110 20251109
+add Tarea_7620 20250624
+add Tarea_7621 20240524
+discard
+discard
+move 20241002 20251117
+add Tarea_7625 20240902
+add Tarea_7626 20240521
+add Tarea_7627 20251213
+move 20240823 20251202
+execute
+execute
+move 20250809 20240506
+discard
+discard
+delete 20240521
+move 20240713 20250617
+execute
+execute
+add Tarea_7638 20240123
+discard
+execute
+execute
+move 20251104 20250615
+move 20250624 20250823
+discard
+discard
+execute
+delete 20240113
+move 20251002 20250502
+add Tarea_7649 20240311
+move 20251213 20251003
+move 20250823 20251204
+move 20241227 20240202
+move 20240123 20251105
+move 20250615 20241206
+add Tarea_7655 20250411
+discard
+execute
+discard
+discard
+move 20251109 20240727
+discard
+delete 20251105
+move 20250804 20240123
+add Tarea_7664 20240527
+move 20240925 20251104
+discard
+delete 20241207
+discard
+delete 20250617
+move 20250411 20240321
+discard
+add Tarea_7672 20250313
+add Tarea_7673 20250202
+move 20240121 20251209
+discard
+move 20241206 20250903
+add Tarea_7677 20240211
+delete 20240311
+delete 20250502
+discard
+add Tarea_7681 20241117
+discard
+discard
+discard
+delete 20240207
+execute
+execute
+move 20240104 20240828
+move 20240527 20241201
+execute
+discard
+delete 20240828
+add Tarea_7693 20241202
+delete 20250903
+delete 20251003
+add Tarea_7696 20250608
+add Tarea_7697 20250323
+add Tarea_7698 20251213
+discard
+execute
+execute
+execute
+discard
+add Tarea_7704 20251009
+execute
+move 20251204 20240113
+delete 20251213
+delete 20240506
+move 20240202 20250708
+execute
+discard
+discard
+add Tarea_7713 20240418
+move 20250914 20241210
+add Tarea_7715 20250505
+move 20250323 20241222
+add Tarea_7717 20250920
+discard
+delete 20240123
+discard
+execute
+execute
+discard
+add Tarea_7724 20241212
+discard
+execute
+move 20240113 20250424
+execute
+execute
+add Tarea_7730 20240612
+execute
+discard
+delete 20251104
+discard
+add Tarea_7735 20240625
+add Tarea_7736 20251204
+discard
+add Tarea_7738 20241115
+move 20251209 20250409
+add Tarea_7740 20250826
+move 20240902 20241003
+move 20241117 20241020
+add Tarea_7743 20250623
+execute
+move 20250505 20250316
+add Tarea_7746 20241208
+execute
+discard
+execute
+add Tarea_7750 20240607
+execute
+delete 20240301
+move 20240612 20250824
+execute
+move 20250313 20240123
+add Tarea_7756 20251115
+move 20241201 20250819
+move 20240625 20251214
+discard
+move 20251117 20250919
+discard
+execute
+move 20240211 20250218
+discard
+discard
+execute
+add Tarea_7767 20240901
+delete 20241208
+delete 20240901
+move 20240524 20250303
+move 20241202 20240603
+discard
+execute
+move 20241003 20240523
+add Tarea_7775 20241223
+move 20250202 20250121
+delete 20251009
+move 20250708 20250410
+move 20250121 20241127
+add Tarea_7780 20240310
+discard
+execute
+execute
+add Tarea_7784 20241021
+discard
+move 20250826 20250802
+execute
+add Tarea_7788 20240514
+execute
+execute
+move 20251115 20240121
+execute
+delete 20240418
+execute
+execute
+add Tarea_7796 20251207
+discard
+delete 20250106
+discard
+move 20250623 20240419
+execute
+add Tarea_7802 20241026
+add Tarea_7803 20250417
+delete 20240121
+discard
+move 20251214 20250117
+add Tarea_7807 20250317
+execute
+add Tarea_7809 20240326
+move 20240523 20240728
+delete 20240419
+move 20240727 20251221
+execute
+delete 20251207
+add Tarea_7815 20240825
+execute
+delete 20250819
+execute
+discard
+delete 20251221
+add Tarea_7821 20240124
+add Tarea_7822 20240215
+discard
+add Tarea_7824 20240505
+execute
+discard
+execute
+discard
+add Tarea_7829 20240826
+discard
+discard
+delete 20250317
+move 20241223 20250926
+delete 20241127
+add Tarea_7835 20250322
+delete 20250926
+move 20251202 20251014
+add Tarea_7838 20250621
+move 20240719 20240809
+move 20250608 20250225
+add Tarea_7841 20240213
+delete 20251014
+delete 20250920
+execute
+delete 20240514
+discard
+add Tarea_7847 20240623
+discard
+execute
+add Tarea_7850 20250516
+discard
+add Tarea_7852 20250620
+delete 20250424
+execute
+discard
+discard
+delete 20250621
+delete 20240809
+execute
+move 20240326 20250206
+add Tarea_7861 20240917
+move 20241210 20250626
+execute
+move 20250206 20240205
+execute
+move 20240607 20250505
+move 20250225 20240915
+move 20240826 20250828
+execute
+delete 20250417
+discard
+discard
+move 20240505 20240416
+execute
+execute
+execute
+move 20240728 20240809
+execute
+move 20241222 20240814
+move 20250516 20240811
+execute
+add Tarea_7882 20240419
+delete 20240809
+discard
+add Tarea_7885 20240720
+delete 20240811
+add Tarea_7887 20250209
+add Tarea_7888 20250812
+delete 20241021
+delete 20240321
+add Tarea_7891 20240728
+discard
+discard
+delete 20251204
+move 20240213 20240708
+move 20241020 20240505
+move 20250626 20241223
+delete 20241223
+discard
+move 20250218 20241025
+add Tarea_7901 20241118
+execute
+move 20250117 20240823
+move 20241026 20240319
+discard
+delete 20240720
+add Tarea_7907 20240222
+move 20240823 20251205
+move 20240825 20240403
+discard
+execute
+move 20241212 20250520
+add Tarea_7913 20251226
+discard
+move 20240123 20250217
+add Tarea_7916 20240427
+execute
+execute
+delete 20240814
+delete 20240915
+move 20250505 20240528
+add Tarea_7922 20241218
+delete 20250520
+delete 20240416
+add Tarea_7925 20250102
+move 20240124 20240702
+delete 20240708
+move 20250316 20250904
+discard
+add Tarea_7930 20240513
+move 20250802 20240115
+add Tarea_7932 20241125
+delete 20250828
+execute
+discard
+discard
+move 20240205 20240425
+execute
+execute
+execute
+move 20240419 20240803
+discard
+add Tarea_7943 20251114
+execute
+delete 20240513
+move 20250209 20240907
+move 20240702 20251223
+move 20250410 20250402
+execute
+execute
+discard
+move 20240603 20250117
+execute
+discard
+execute
+move 20250303 20251023
+execute
+discard
+execute
+execute
+execute
+execute
+execute
+execute
+delete 20241025
+discard
+move 20251023 20250617
+delete 20250117
+discard
+execute
+delete 20250620
+add Tarea_7972 20240411
+add Tarea_7973 20241206
+discard
+add Tarea_7975 20250411
+discard
+execute
+add Tarea_7978 20251123
+delete 20250402
+discard
+add Tarea_7981 20240811
+delete 20240215
+discard
+add Tarea_7984 20240810
+execute
+move 20241118 20251228
+execute
+execute
+move 20250102 20250309
+discard
+move 20240907 20250513
+move 20240728 20240402
+move 20250217 20250121
+move 20240623 20250805
+add Tarea_7995 20241216
+execute
+add Tarea_7997 20240215
+delete 20241218
+move 20240403 20241019
+add Tarea_8000 20241102
+delete 20241019
+execute
+move 20251226 20241126
+discard
+delete 20250513
+move 20241216 20250310
+delete 20251228
+delete 20250309
+discard
+move 20240803 20251127
+add Tarea_8011 20251021
+discard
+execute
+discard
+add Tarea_8015 20250216
+discard
+add Tarea_8017 20240605
+delete 20240528
+delete 20240215
+execute
+discard
+execute
+delete 20240411
+discard
+add Tarea_8025 20250419
+delete 20250409
+move 20250824 20250713
+execute
+execute
+move 20251114 20240721
+delete 20250713
+delete 20240222
+add Tarea_8033 20240625
+delete 20241126
+discard
+execute
+execute
+execute
+move 20250419 20250902
+add Tarea_8040 20240109
+discard
+move 20241206 20240601
+delete 20250121
+discard
+execute
+delete 20250812
+delete 20240810
+delete 20251021
+execute
+execute
+execute
+execute
+move 20241102 20251125
+move 20250216 20250907
+add Tarea_8055 20251024
+delete 20251205
+discard
+move 20240811 20240607
+move 20240115 20250712
+discard
+execute
+execute
+execute
+delete 20240427
+add Tarea_8065 20240126
+execute
+delete 20240505
+move 20240425 20240115
+move 20250902 20240502
+move 20240607 20250323
+execute
+execute
+execute
+execute
+add Tarea_8075 20240820
+move 20240820 20240328
+add Tarea_8077 20250301
+discard
+add Tarea_8079 20240704
+discard
+execute
+execute
+delete 20241125
+delete 20250904
+delete 20250617
+add Tarea_8086 20240116
+move 20240704 20241220
+discard
+move 20240502 20240828
+add Tarea_8090 20250824
+discard
+discard
+add Tarea_8093 20250619
+move 20240319 20251008
+move 20251123 20250815
+discard
+discard
+execute
+add Tarea_8099 20250809
+add Tarea_8100 20240817
+discard
+add Tarea_8102 20251018
+delete 20250322
+execute
+add Tarea_8105 20241024
+add Tarea_8106 20240525
+delete 20251024
+move 20240625 20250117
+add Tarea_8109 20240218
+discard
+delete 20250310
+discard
+discard
+discard
+move 20250824 20251017
+move 20240601 20240717
+delete 20240328
+delete 20240917
+execute
+discard
+delete 20240525
+delete 20250815
+delete 20250805
+execute
+delete 20251017
+discard
+add Tarea_8127 20240425
+move 20240116 20240905
+execute
+discard
+execute
+add Tarea_8132 20250416
+discard
+delete 20250416
+move 20250919 20240610
+delete 20250907
+discard
+move 20240905 20250201
+discard
+discard
+discard
+discard
+move 20240817 20250928
+add Tarea_8144 20250610
+move 20241220 20241102
+move 20240610 20250911
+delete 20241102
+discard
+add Tarea_8149 20251015
+delete 20250610
+delete 20240721
+execute
+add Tarea_8153 20240807
+discard
+move 20240717 20240808
+delete 20240807
+discard
+discard
+execute
+execute
+discard
+discard
+move 20251018 20240623
+add Tarea_8164 20250305
+delete 20250117
+execute
+delete 20250928
+add Tarea_8168 20250119
+move 20250323 20240606
+delete 20240402
+discard
+add Tarea_8172 20250728
+delete 20251223
+discard
+delete 20250411
+add Tarea_8176 20240612
+move 20240425 20251115
+execute
+add Tarea_8179 20250519
+delete 20251127
+move 20240115 20240905
+move 20240808 20250613
+execute
+discard
+move 20250119 20250509
+delete 20240605
+delete 20251115
+execute
+add Tarea_8189 20250502
+add Tarea_8190 20250621
+discard
+move 20250502 20250115
+discard
+discard
+add Tarea_8195 20240613
+add Tarea_8196 20250602
+delete 20251015
+execute
+discard
+delete 20240613
+execute
+move 20250911 20241108
+delete 20240109
+execute
+move 20250809 20251124
+discard
+discard
+move 20240218 20240622
+delete 20250619
+delete 20241108
+execute
+delete 20250305
+move 20240612 20241127
+add Tarea_8214 20250511
+delete 20250201
+discard
+add Tarea_8217 20250103
+discard
+delete 20250301
+execute
+discard
+execute
+discard
+delete 20240126
+delete 20240606
+add Tarea_8226 20240112
+add Tarea_8227 20250725
+add Tarea_8228 20241009
+delete 20240905
+execute
+execute
+move 20250115 20240326
+execute
+execute
+discard
+delete 20241009
+discard
+add Tarea_8238 20240316
+move 20250712 20250908
+move 20250621 20240527
+discard
+add Tarea_8242 20240126
+add Tarea_8243 20240426
+discard
+add Tarea_8245 20241111
+discard
+move 20240326 20240813
+add Tarea_8248 20250820
+discard
+add Tarea_8250 20250113
+discard
+execute
+move 20251125 20241204
+execute
+move 20250908 20251204
+delete 20241024
+execute
+discard
+discard
+discard
+discard
+execute
+execute
+move 20240126 20251007
+discard
+execute
+add Tarea_8267 20250711
+delete 20250113
+move 20240813 20240518
+discard
+execute
+move 20241127 20250215
+execute
+move 20251124 20240307
+discard
+add Tarea_8276 20250225
+execute
+add Tarea_8278 20241113
+move 20240112 20250405
+execute
+delete 20250103
+move 20250711 20251111
+move 20250405 20250403
+execute
+delete 20240426
+move 20250602 20240216
+add Tarea_8287 20251117
+execute
+move 20240623 20250127
+delete 20250509
+add Tarea_8291 20241008
+execute
+add Tarea_8293 20241006
+move 20241204 20240227
+add Tarea_8295 20240907
+add Tarea_8296 20250419
+execute
+move 20250613 20240914
+move 20240307 20241225
+move 20250519 20250217
+discard
+move 20250127 20240928
+delete 20240316
+execute
+move 20241008 20250110
+execute
+move 20251204 20250505
+execute
+add Tarea_8309 20251023
+add Tarea_8310 20241019
+discard
+delete 20250820
+move 20241019 20240710
+add Tarea_8314 20240317
+move 20250403 20250424
+add Tarea_8316 20240703
+delete 20241006
+move 20251007 20241117
+move 20251023 20241214
+add Tarea_8320 20250827
+add Tarea_8321 20241122
+move 20240216 20241208
+add Tarea_8323 20251125
+add Tarea_8324 20250613
+add Tarea_8325 20241103
+add Tarea_8326 20240827
+move 20250511 20250205
+delete 20240928
+add Tarea_8329 20250501
+move 20240518 20240204
+execute
+move 20250215 20240312
+delete 20241111
+delete 20240204
+move 20240310 20251211
+discard
+move 20241113 20240706
+move 20240622 20241028
+execute
+discard
+execute
+add Tarea_8342 20240601
+execute
+add Tarea_8344 20250608
+execute
+add Tarea_8346 20240418
+discard
+execute
+add Tarea_8349 20240520
+execute
+delete 20240706
+discard
+discard
+discard
+add Tarea_8355 20250114
+discard
+discard
+move 20241225 20240424
+execute
+add Tarea_8360 20240903
+delete 20240703
+move 20240527 20241107
+move 20241214 20240526
+move 20240710 20250603
+delete 20241208
+add Tarea_8366 20250222
+discard
+delete 20240526
+add Tarea_8369 20251116
+delete 20240312
+delete 20250608
+add Tarea_8372 20251207
+discard
+add Tarea_8374 20241003
+execute
+delete 20250222
+add Tarea_8377 20240107
+discard
+delete 20240903
+execute
+add Tarea_8381 20250123
+execute
+discard
+delete 20241003
+move 20241117 20240504
+move 20240907 20240915
+discard
+execute
+execute
+delete 20240227
+execute
+execute
+delete 20240601
+execute
+execute
+discard
+discard
+discard
+add Tarea_8399 20240419
+discard
+discard
+delete 20250225
+execute
+add Tarea_8404 20240427
+move 20241103 20241217
+execute
+add Tarea_8407 20250812
+execute
+discard
+discard
+move 20241122 20250912
+delete 20240317
+discard
+discard
+execute
+discard
+delete 20240828
+execute
+discard
+add Tarea_8420 20251002
+discard
+add Tarea_8422 20240509
+execute
+move 20240107 20241212
+add Tarea_8425 20240423
+move 20250812 20240307
+discard
+discard
+execute
+move 20250217 20240707
+move 20240307 20240925
+execute
+add Tarea_8433 20250319
+discard
+move 20250123 20250305
+add Tarea_8436 20241014
+discard
+move 20240827 20241206
+execute
+delete 20241115
+discard
+move 20240914 20250604
+discard
+add Tarea_8444 20250107
+add Tarea_8445 20240615
+execute
+delete 20241028
+discard
+delete 20240509
+add Tarea_8450 20251122
+move 20240707 20250807
+delete 20251211
+delete 20250205
+delete 20251207
+add Tarea_8455 20250217
+move 20250110 20240725
+add Tarea_8457 20240714
+discard
+move 20241212 20250715
+add Tarea_8460 20240717
+execute
+add Tarea_8462 20250227
+delete 20240615
+discard
+discard
+move 20240424 20240404
+move 20240418 20251215
+delete 20250728
+move 20240520 20251204
+execute
+discard
+discard
+add Tarea_8473 20241016
+add Tarea_8474 20250920
+execute
+execute
+discard
+add Tarea_8478 20250818
+add Tarea_8479 20251118
+add Tarea_8480 20240416
+execute
+add Tarea_8482 20250804
+add Tarea_8483 20250902
+delete 20250827
+delete 20250505
+execute
+add Tarea_8487 20240501
+execute
+add Tarea_8489 20250211
+delete 20251215
+execute
+delete 20250912
+delete 20240717
+execute
+move 20241107 20240312
+add Tarea_8496 20240808
+add Tarea_8497 20240509
+delete 20240504
+discard
+discard
+execute
+delete 20250818
+delete 20250419
+discard
+add Tarea_8505 20240206
+move 20240416 20250504
+delete 20240501
+move 20250217 20250203
+move 20240404 20240320
+delete 20251002
+move 20240206 20250818
+execute
+execute
+delete 20250603
+move 20250114 20250304
+discard
+execute
+add Tarea_8518 20240405
+add Tarea_8519 20250512
+execute
+execute
+move 20250604 20250124
+move 20250203 20250709
+move 20240509 20250312
+add Tarea_8525 20250516
+execute
+move 20240427 20240610
+discard
+discard
+move 20250227 20251225
+move 20240312 20240118
+execute
+discard
+execute
+execute
+move 20250818 20250120
+add Tarea_8537 20240811
+execute
+delete 20251125
+delete 20241206
+move 20251118 20240707
+add Tarea_8542 20240225
+move 20251225 20241128
+execute
+add Tarea_8545 20240409
+discard
+execute
+discard
+discard
+execute
+discard
+add Tarea_8552 20241024
+delete 20240808
+add Tarea_8554 20250425
+add Tarea_8555 20240511
+delete 20241016
+add Tarea_8557 20250401
+delete 20240320
+discard
+add Tarea_8560 20250413
+execute
+move 20250413 20240216
+execute
+delete 20250425
+execute
+discard
+move 20250512 20250101
+add Tarea_8568 20251103
+add Tarea_8569 20251020
+discard
+add Tarea_8571 20240611
+discard
+move 20240811 20240107
+move 20251117 20241008
+add Tarea_8575 20240227
+delete 20250920
+execute
+move 20250804 20241117
+delete 20251204
+delete 20250807
+move 20250312 20250823
+move 20250715 20250525
+add Tarea_8583 20240809
+add Tarea_8584 20240528
+discard
+execute
+move 20250504 20240709
+move 20250501 20240913
+move 20251008 20240414
+add Tarea_8590 20250225
+add Tarea_8591 20240214
+execute
+delete 20250424
+delete 20240214
+move 20240227 20250509
+delete 20250319
+move 20250101 20241103
+move 20240528 20240921
+execute
+add Tarea_8600 20240311
+discard
+execute
+delete 20240423
+delete 20240707
+execute
+move 20240409 20250819
+discard
+execute
+discard
+discard
+discard
+add Tarea_8612 20240918
+discard
+discard
+discard
+delete 20250304
+execute
+discard
+add Tarea_8619 20251027
+add Tarea_8620 20240706
+delete 20240610
+move 20240809 20240125
+move 20251122 20240304
+execute
+discard
+add Tarea_8626 20240527
+delete 20240915
+discard
+delete 20250107
+add Tarea_8630 20240303
+delete 20240303
+delete 20240216
+delete 20240118
+move 20240511 20241026
+execute
+execute
+add Tarea_8637 20251212
+delete 20251212
+execute
+move 20240414 20250324
+add Tarea_8641 20251023
+discard
+execute
+add Tarea_8644 20250302
+move 20241008 20250824
+execute
+execute
+execute
+add Tarea_8649 20241211
+add Tarea_8650 20240406
+execute
+execute
+add Tarea_8653 20251018
+delete 20241014
+delete 20240921
+delete 20250324
+add Tarea_8657 20250928
+delete 20251116
+add Tarea_8659 20251004
+delete 20241117
+execute
+delete 20241128
+add Tarea_8663 20251212
+discard
+discard
+add Tarea_8666 20240215
+discard
+discard
+add Tarea_8669 20250521
+delete 20240706
+delete 20241211
+move 20250302 20251007
+discard
+add Tarea_8674 20241022
+delete 20240913
+move 20250124 20251002
+execute
+execute
+discard
+discard
+delete 20250709
+discard
+add Tarea_8683 20240822
+discard
+execute
+add Tarea_8686 20240524
+discard
+discard
+delete 20250613
+move 20240225 20240403
+discard
+delete 20241217
+execute
+add Tarea_8694 20251012
+execute
+move 20251018 20241018
+delete 20250516
+execute
+delete 20250211
+move 20251002 20240508
+discard
+delete 20240304
+add Tarea_8703 20250807
+move 20251023 20240603
+delete 20240311
+discard
+add Tarea_8707 20250114
+delete 20241024
+execute
+move 20251004 20240818
+delete 20240125
+move 20250902 20250806
+move 20251027 20250715
+add Tarea_8714 20241101
+delete 20251020
+move 20250823 20250809
+delete 20250824
+delete 20250715
+move 20240818 20250927
+add Tarea_8720 20250307
+delete 20240419
+execute
+move 20250114 20250701
+discard
+execute
+execute
+discard
+delete 20250509
+add Tarea_8729 20250316
+add Tarea_8730 20250527
+add Tarea_8731 20240716
+delete 20240508
+discard
+add Tarea_8734 20250402
+delete 20251012
+delete 20250521
+delete 20250701
+discard
+move 20250525 20250220
+delete 20251103
+execute
+delete 20240603
+move 20240107 20250328
+add Tarea_8744 20250903
+delete 20250402
+execute
+add Tarea_8747 20251201
+discard
+discard
+add Tarea_8750 20240217
+delete 20240215
+discard
+delete 20251201
+delete 20250328
+execute
+move 20240406 20240713
+discard
+execute
+delete 20250725
+delete 20240822
+delete 20250401
+delete 20250806
+add Tarea_8763 20250702
+add Tarea_8764 20250709
+discard
+delete 20251111
+execute
+discard
+move 20240405 20240515
+delete 20250702
+delete 20241026
+add Tarea_8772 20251016
+delete 20250120
+discard
+delete 20250809
+delete 20250316
+discard
+move 20241101 20240401
+delete 20240716
+discard
+delete 20240401
+move 20250819 20250406
+discard
+move 20251007 20250204
+execute
+move 20240713 20250417
+move 20251212 20250303
+execute
+move 20250807 20250909
+execute
+move 20250303 20251205
+delete 20240725
+discard
+execute
+delete 20240217
+add Tarea_8796 20250606
+add Tarea_8797 20250822
+execute
+add Tarea_8799 20251208
+add Tarea_8800 20250323
+execute
+move 20250822 20241203
+delete 20241022
+delete 20250903
+add Tarea_8805 20250105
+execute
+execute
+delete 20250927
+add Tarea_8809 20240425
+discard
+move 20240611 20240721
+delete 20240714
+move 20240918 20251116
+move 20251205 20240324
+add Tarea_8815 20241118
+add Tarea_8816 20250203
+add Tarea_8817 20240223
+move 20241203 20250825
+move 20251116 20251112
+add Tarea_8820 20251117
+discard
+move 20250203 20250521
+execute
+discard
+delete 20240527
+discard
+delete 20251016
+move 20240324 20241021
+execute
+delete 20240223
+delete 20250521
+discard
+delete 20251117
+add Tarea_8834 20241012
+add Tarea_8835 20240920
+execute
+discard
+delete 20250709
+execute
+execute
+delete 20240709
+add Tarea_8842 20241023
+execute
+delete 20250606
+execute
+execute
+discard
+delete 20240515
+add Tarea_8849 20240502
+discard
+discard
+add Tarea_8852 20240503
+move 20250406 20250207
+move 20240503 20250312
+move 20250909 20250309
+add Tarea_8856 20240525
+discard
+add Tarea_8858 20251015
+move 20250204 20251209
+add Tarea_8860 20251219
+add Tarea_8861 20250515
+execute
+execute
+move 20251208 20240202
+discard
+delete 20241021
+execute
+delete 20240524
+discard
+delete 20251015
+move 20240502 20241203
+move 20250928 20240410
+delete 20241012
+move 20250309 20250308
+move 20240721 20250517
+delete 20250220
+delete 20240410
+discard
+execute
+execute
+discard
+move 20240425 20240922
+move 20241018 20250504
+discard
+move 20250527 20240105
+add Tarea_8886 20240216
+execute
+delete 20250515
+discard
+add Tarea_8890 20240910
+delete 20241103
+delete 20240216
+move 20241023 20240208
+discard
+move 20240920 20240520
+delete 20250307
+add Tarea_8897 20240120
+discard
+discard
+execute
+delete 20240208
+move 20240525 20250913
+move 20240520 20240308
+execute
+execute
+add Tarea_8906 20250124
+move 20241203 20250116
+move 20250207 20240107
+move 20240120 20240803
+execute
+discard
+delete 20240922
+discard
+delete 20250517
+delete 20250825
+move 20241118 20240709
+delete 20240403
+add Tarea_8918 20250527
+add Tarea_8919 20240426
+delete 20240910
+add Tarea_8921 20240509
+add Tarea_8922 20251102
+move 20250305 20251021
+discard
+discard
+move 20250504 20240618
+move 20250527 20251008
+delete 20251112
+execute
+delete 20250417
+move 20251219 20240615
+discard
+move 20240709 20251128
+delete 20250308
+execute
+delete 20240618
+delete 20240509
+add Tarea_8938 20250619
+execute
+add Tarea_8940 20240317
+discard
+discard
+discard
+discard
+discard
+delete 20251209
+discard
+discard
+add Tarea_8949 20250128
+delete 20250913
+add Tarea_8951 20250617
+discard
+discard
+delete 20240308
+execute
+add Tarea_8956 20240327
+discard
+execute
+discard
+delete 20250617
+discard
+discard
+move 20251021 20240420
+add Tarea_8964 20241201
+discard
+delete 20250128
+delete 20240105
+move 20250124 20241111
+add Tarea_8969 20241016
+execute
+execute
+move 20241016 20240411
+add Tarea_8973 20240226
+add Tarea_8974 20250719
+execute
+move 20240226 20250615
+add Tarea_8977 20250219
+discard
+delete 20240411
+execute
+add Tarea_8981 20250412
+delete 20250719
+execute
+move 20241201 20251226
+move 20250312 20240225
+delete 20240426
+delete 20250225
+execute
+add Tarea_8989 20240122
+execute
+delete 20250323
+move 20241111 20241128
+move 20240327 20240719
+add Tarea_8994 20251003
+move 20250615 20240606
+add Tarea_8996 20240307
+add Tarea_8997 20250510
+add Tarea_8998 20241113
+discard
+delete 20250116
+discard
+discard
+execute
+discard
+delete 20240107
+add Tarea_9006 20240120
+add Tarea_9007 20250909
+discard
+add Tarea_9009 20240207
+discard
+execute
+move 20240207 20240310
+add Tarea_9013 20251012
+add Tarea_9014 20240302
+discard
+execute
+execute
+move 20251012 20250808
+discard
+discard
+discard
+add Tarea_9022 20250415
+delete 20240925
+add Tarea_9024 20250614
+move 20250619 20250714
+add Tarea_9026 20250522
+add Tarea_9027 20240415
+add Tarea_9028 20241219
+add Tarea_9029 20240806
+move 20250412 20240108
+move 20240420 20250824
+delete 20251102
+add Tarea_9033 20250410
+delete 20250410
+add Tarea_9035 20240523
+execute
+move 20241219 20251115
+discard
+execute
+move 20250909 20241222
+add Tarea_9041 20251112
+execute
+move 20251112 20241205
+discard
+discard
+execute
+discard
+delete 20251008
+add Tarea_9049 20250718
+discard
+move 20250105 20250117
+discard
+move 20241205 20250608
+execute
+delete 20240317
+discard
+delete 20240120
+execute
+discard
+execute
+execute
+move 20240523 20250715
+discard
+discard
+move 20240803 20250517
+delete 20240615
+delete 20240310
+add Tarea_9068 20240826
+add Tarea_9069 20251028
+discard
+add Tarea_9071 20251223
+discard
+delete 20250614
+execute
+delete 20250415
+add Tarea_9076 20250609
+execute
+delete 20240806
+execute
+delete 20240202
+delete 20240719
+discard
+discard
+execute
+delete 20250510
+execute
+execute
+discard
+add Tarea_9089 20250123
+move 20250117 20250924
+discard
+execute
+move 20250715 20240906
+execute
+discard
+discard
+add Tarea_9097 20251206
+delete 20241222
+move 20250824 20251026
+delete 20251226
+execute
+delete 20250718
+discard
+execute
+add Tarea_9105 20240626
+execute
+move 20251026 20241005
+delete 20251115
+execute
+move 20241113 20250419
+add Tarea_9111 20240917
+add Tarea_9112 20240922
+delete 20240606
+delete 20250419
+move 20251128 20240202
+discard
+execute
+delete 20250123
+discard
+execute
+move 20240922 20251023
+move 20251023 20241218
+execute
+execute
+discard
+discard
+delete 20240302
+discard
+add Tarea_9129 20240127
+discard
+move 20250219 20250817
+move 20240626 20240815
+delete 20241005
+delete 20250517
+delete 20250522
+execute
+move 20250714 20240226
+delete 20251003
+delete 20251206
+move 20240202 20250228
+execute
+move 20240917 20250424
+move 20250424 20241220
+move 20240906 20240201
+discard
+add Tarea_9146 20240416
+delete 20250808
+delete 20250608
+execute
+add Tarea_9150 20250927
+discard
+discard
+delete 20241218
+discard
+add Tarea_9155 20241124
+delete 20241220
+execute
+execute
+discard
+delete 20240307
+move 20240416 20241119
+add Tarea_9162 20250502
+discard
+move 20240826 20250411
+move 20240226 20251013
+add Tarea_9166 20250303
+delete 20240815
+discard
+delete 20250927
+add Tarea_9170 20241112
+execute
+execute
+execute
+add Tarea_9174 20240211
+add Tarea_9175 20240727
+move 20241128 20250206
+discard
+discard
+discard
+discard
+add Tarea_9181 20250321
+execute
+delete 20241112
+discard
+add Tarea_9185 20251214
+add Tarea_9186 20240327
+add Tarea_9187 20250707
+add Tarea_9188 20240512
+add Tarea_9189 20250517
+move 20251214 20240711
+add Tarea_9191 20250728
+add Tarea_9192 20250702
+add Tarea_9193 20240414
+add Tarea_9194 20240624
+delete 20240414
+delete 20251223
+discard
+discard
+discard
+execute
+add Tarea_9201 20240419
+discard
+move 20250702 20250818
+move 20240127 20251020
+move 20240727 20240326
+add Tarea_9206 20240720
+move 20240122 20240410
+execute
+delete 20250924
+add Tarea_9210 20250415
+discard
+add Tarea_9212 20250414
+add Tarea_9213 20250816
+move 20250818 20251208
+move 20240415 20250112
+discard
+execute
+execute
+discard
+discard
+discard
+move 20251013 20240508
+move 20250517 20240722
+execute
+execute
+discard
+add Tarea_9227 20250427
+discard
+discard
+discard
+execute
+add Tarea_9232 20241105
+delete 20250414
+delete 20240211
+delete 20251208
+add Tarea_9236 20250903
+discard
+execute
+move 20250728 20250703
+move 20240419 20241028
+discard
+add Tarea_9242 20250326
+execute
+add Tarea_9244 20251106
+delete 20250206
+move 20240326 20240528
+delete 20240624
+discard
+discard
+add Tarea_9250 20251208
+add Tarea_9251 20240501
+delete 20240528
+execute
+add Tarea_9254 20241220
+move 20240225 20251223
+delete 20240201
+add Tarea_9257 20250921
+execute
+execute
+discard
+discard
+execute
+discard
+execute
+add Tarea_9265 20250910
+delete 20250415
+execute
+discard
+delete 20250502
+add Tarea_9270 20250117
+execute
+move 20251106 20250224
+move 20250224 20250311
+execute
+discard
+add Tarea_9276 20250403
+discard
+add Tarea_9278 20250401
+delete 20250112
+execute
+discard
+move 20250401 20250610
+add Tarea_9283 20240604
+move 20250610 20240328
+delete 20240722
+delete 20240410
+add Tarea_9287 20240818
+discard
+add Tarea_9289 20251116
+execute
+execute
+move 20241105 20240122
+move 20240604 20240210
+delete 20240327
+discard
+execute
+execute
+add Tarea_9298 20250105
+discard
+delete 20250228
+delete 20240818
+discard
+move 20240501 20250319
+add Tarea_9304 20250111
+discard
+move 20240508 20241204
+move 20250105 20241001
+execute
+move 20250326 20240508
+discard
+move 20250816 20250305
+add Tarea_9312 20250114
+delete 20250609
+move 20250703 20250408
+delete 20241028
+move 20250817 20250714
+move 20250321 20241102
+move 20240108 20250415
+execute
+execute
+discard
+delete 20241124
+move 20251223 20250102
+move 20250111 20250611
+move 20240508 20240605
+delete 20250403
+discard
+discard
+move 20250311 20241006
+execute
+move 20251028 20240603
+delete 20240605
+discard
+discard
+execute
+add Tarea_9336 20240121
+discard
+discard
+discard
+delete 20250408
+add Tarea_9341 20250222
+move 20250305 20240204
+add Tarea_9343 20251104
+add Tarea_9344 20250216
+move 20241102 20251101
+discard
+add Tarea_9347 20250426
+add Tarea_9348 20250404
+move 20240328 20240214
+add Tarea_9350 20251215
+discard
+discard
+delete 20251104
+discard
+move 20241006 20241120
+execute
+execute
+move 20250910 20240722
+discard
+move 20240121 20250926
+add Tarea_9361 20240828
+execute
+move 20250216 20241018
+add Tarea_9364 20251007
+move 20240214 20250822
+discard
+move 20240204 20240812
+add Tarea_9368 20251120
+delete 20250117
+move 20250427 20240501
+execute
+move 20251215 20250224
+add Tarea_9373 20241011
+move 20240720 20241209
+delete 20250114
+delete 20250714
+move 20241220 20251008
+delete 20251120
+discard
+move 20250903 20250714
+add Tarea_9381 20241016
+execute
+discard
+move 20250102 20240718
+add Tarea_9385 20241227
+delete 20241011
+move 20250415 20250417
+execute
+discard
+add Tarea_9390 20240307
+move 20241001 20240202
+discard
+add Tarea_9393 20240622
+delete 20250822
+delete 20241209
+discard
+move 20241120 20251218
+delete 20240722
+add Tarea_9399 20250805
+delete 20250805
+move 20240501 20250923
+delete 20250921
+delete 20250303
+move 20250411 20251202
+discard
+discard
+add Tarea_9407 20241125
+add Tarea_9408 20240109
+delete 20250222
+add Tarea_9410 20250503
+discard
+delete 20250707
+move 20240122 20240316
+move 20240622 20250310
+delete 20241119
+move 20251208 20250607
+add Tarea_9417 20250614
+delete 20240718
+move 20250614 20251113
+discard
+add Tarea_9421 20240418
+delete 20240307
+add Tarea_9423 20250122
+execute
+delete 20250923
+discard
+discard
+delete 20241227
+add Tarea_9429 20240804
+discard
+discard
+add Tarea_9432 20241202
+move 20251116 20250316
+execute
+execute
+move 20240711 20241023
+discard
+discard
+delete 20250310
+add Tarea_9440 20240102
+execute
+move 20240210 20250411
+execute
+delete 20241018
+delete 20250611
+execute
+execute
+delete 20250319
+move 20240804 20251105
+delete 20240202
+move 20250224 20240522
+delete 20251202
+execute
+add Tarea_9454 20241219
+discard
+execute
+execute
+add Tarea_9458 20251028
+discard
+execute
+move 20240812 20250120
+move 20240603 20241002
+delete 20251113
+execute
+add Tarea_9465 20250123
+move 20240109 20241001
+discard
+delete 20240418
+execute
+delete 20241125
+execute
+move 20251028 20241105
+execute
+add Tarea_9474 20251121
+add Tarea_9475 20241118
+delete 20251007
+add Tarea_9477 20240617
+add Tarea_9478 20240628
+discard
+move 20241204 20241214
+execute
+add Tarea_9482 20240626
+add Tarea_9483 20240520
+move 20240522 20240809
+add Tarea_9485 20251006
+move 20250417 20250812
+move 20251020 20240412
+move 20240316 20240818
+discard
+discard
+add Tarea_9491 20240504
+execute
+execute
+add Tarea_9494 20250622
+move 20241118 20240806
+move 20251105 20251104
+delete 20241105
+execute
+delete 20250123
+execute
+add Tarea_9501 20240902
+discard
+delete 20241214
+execute
+discard
+add Tarea_9506 20250209
+delete 20240628
+discard
+add Tarea_9509 20250111
+delete 20250120
+execute
+discard
+delete 20241001
+delete 20240504
+execute
+execute
+move 20251008 20240123
+discard
+delete 20250404
+discard
+move 20251104 20240723
+move 20250316 20241105
+discard
+delete 20240617
+add Tarea_9525 20240801
+add Tarea_9526 20240928
+execute
+execute
+delete 20241105
+delete 20250209
+add Tarea_9531 20240813
+discard
+discard
+execute
+execute
+delete 20251101
+discard
+add Tarea_9538 20241107
+move 20250622 20241022
+discard
+delete 20240828
+execute
+delete 20251006
+add Tarea_9544 20250611
+delete 20240412
+move 20240813 20240404
+delete 20240806
+discard
+discard
+add Tarea_9550 20241222
+delete 20241202
+add Tarea_9552 20250211
+delete 20250503
+add Tarea_9554 20250315
+add Tarea_9555 20250202
+delete 20250812
+execute
+delete 20240902
+discard
+execute
+add Tarea_9561 20240907
+add Tarea_9562 20250314
+delete 20240907
+add Tarea_9564 20241108
+move 20250926 20240608
+add Tarea_9566 20240527
+delete 20241222
+move 20251121 20240406
+add Tarea_9569 20240921
+add Tarea_9570 20240506
+add Tarea_9571 20240728
+delete 20250426
+move 20250202 20240614
+discard
+delete 20250714
+execute
+delete 20240512
+move 20241016 20251203
+move 20240818 20250427
+discard
+discard
+add Tarea_9582 20250414
+execute
+execute
+add Tarea_9585 20240106
+execute
+execute
+execute
+discard
+add Tarea_9590 20240523
+discard
+execute
+move 20240520 20250218
+add Tarea_9594 20250710
+move 20250607 20240306
+delete 20240404
+execute
+execute
+delete 20250611
+execute
+discard
+delete 20250411
+add Tarea_9603 20240822
+discard
+move 20251218 20250223
+add Tarea_9606 20240510
+move 20241219 20250902
+discard
+move 20250218 20250402
+add Tarea_9610 20250509
+execute
+discard
+add Tarea_9613 20250910
+execute
+discard
+move 20240928 20240920
+delete 20250314
+discard
+delete 20250910
+discard
+move 20250111 20240113
+delete 20250402
+delete 20240614
+delete 20241022
+add Tarea_9625 20250320
+execute
+move 20251203 20250703
+delete 20240723
+execute
+delete 20240506
+discard
+add Tarea_9632 20250711
+add Tarea_9633 20241121
+add Tarea_9634 20250512
+discard
+add Tarea_9636 20250102
+delete 20250320
+execute
+discard
+add Tarea_9640 20250725
+discard
+move 20250710 20241222
+move 20250211 20240419
+delete 20240510
+delete 20250414
+execute
+discard
+execute
+delete 20250509
+delete 20240123
+execute
+move 20240920 20241217
+delete 20240809
+execute
+delete 20250902
+execute
+execute
+add Tarea_9658 20240224
+delete 20240921
+move 20240728 20250408
+delete 20250315
+move 20241108 20240525
+move 20241121 20241102
+discard
+discard
+execute
+discard
+move 20240608 20240101
+add Tarea_9669 20250611
+delete 20250408
+execute
+discard
+add Tarea_9673 20250907
+execute
+delete 20241102
+execute
+add Tarea_9677 20241227
+delete 20250725
+delete 20240801
+move 20240224 20240312
+delete 20250711
+delete 20250102
+add Tarea_9683 20241024
+add Tarea_9684 20250628
+delete 20241024
+move 20240527 20241004
+execute
+execute
+execute
+delete 20241107
+execute
+discard
+execute
+discard
+discard
+execute
+add Tarea_9697 20240720
+move 20241217 20250520
+discard
+execute
+execute
+add Tarea_9702 20250521
+add Tarea_9703 20241019
+discard
+delete 20240101
+move 20240523 20250321
+move 20241002 20240615
+move 20240312 20250915
+execute
+delete 20240113
+execute
+add Tarea_9712 20250327
+discard
+delete 20250321
+discard
+delete 20250628
+discard
+execute
+delete 20250521
+discard
+delete 20241222
+move 20241023 20250217
+move 20240525 20250204
+move 20241227 20251022
+delete 20250512
+execute
+delete 20251022
+discard
+execute
+delete 20241019
+delete 20240106
+discard
+delete 20240822
+execute
+discard
+move 20240406 20250604
+move 20240720 20250822
+execute
+execute
+add Tarea_9740 20250428
+execute
+move 20250611 20241006
+delete 20250520
+discard
+execute
+execute
+execute
+execute
+discard
+delete 20250122
+move 20250223 20240307
+discard
+move 20240626 20240321
+execute
+move 20240419 20250927
+move 20250907 20240303
+discard
+execute
+add Tarea_9759 20241001
+discard
+move 20250217 20250104
+execute
+move 20250703 20240716
+move 20250915 20241121
+execute
+execute
+delete 20241121
+delete 20240303
+delete 20240615
+add Tarea_9770 20240220
+add Tarea_9771 20250514
+add Tarea_9772 20240512
+discard
+delete 20240307
+add Tarea_9775 20250814
+discard
+add Tarea_9777 20250224
+delete 20250427
+delete 20240512
+delete 20250514
+discard
+discard
+delete 20241004
+discard
+execute
+move 20250428 20250819
+discard
+discard
+move 20240306 20240402
+add Tarea_9790 20251201
+add Tarea_9791 20250221
+execute
+execute
+delete 20250927
+move 20240220 20250508
+discard
+add Tarea_9797 20250111
+move 20240402 20250519
+discard
+add Tarea_9800 20250911
+add Tarea_9801 20240625
+discard
+execute
+move 20250822 20241004
+execute
+execute
+execute
+execute
+execute
+discard
+execute
+move 20250204 20251219
+delete 20240716
+move 20250111 20251014
+delete 20241004
+add Tarea_9816 20240417
+delete 20250519
+move 20251014 20250126
+add Tarea_9819 20240605
+discard
+discard
+execute
+move 20240321 20251207
+move 20241001 20240127
+delete 20240102
+discard
+delete 20251219
+move 20240127 20240322
+execute
+discard
+add Tarea_9831 20250909
+delete 20250327
+move 20240417 20241012
+discard
+execute
+add Tarea_9836 20251118
+move 20251207 20240712
+add Tarea_9838 20240120
+discard
+execute
+add Tarea_9841 20250824
+discard
+move 20251118 20250106
+delete 20250224
+move 20240322 20240912
+delete 20250911
+move 20250604 20250102
+add Tarea_9848 20250101
+delete 20250819
+discard
+execute
+move 20251201 20240622
+execute
+add Tarea_9854 20250701
+add Tarea_9855 20240913
+execute
+execute
+add Tarea_9858 20250913
+move 20250221 20240328
+move 20241012 20241204
+move 20250909 20250203
+move 20240120 20251107
+delete 20241006
+delete 20250104
+add Tarea_9865 20240907
+move 20240907 20250706
+move 20250814 20250304
+delete 20250102
+delete 20240625
+move 20250203 20251204
+move 20251107 20240527
+delete 20250508
+move 20250913 20250317
+discard
+add Tarea_9875 20240214
+add Tarea_9876 20251121
+discard
+move 20240622 20250923
+add Tarea_9879 20250803
+discard
+delete 20241204
+execute
+move 20250304 20240901
+add Tarea_9884 20240223
+add Tarea_9885 20250715
+discard
+move 20250101 20240812
+move 20250706 20241012
+discard
+execute
+add Tarea_9891 20250518
+delete 20251121
+move 20240712 20240614
+move 20240328 20250222
+discard
+discard
+delete 20240527
+add Tarea_9898 20240307
+move 20250126 20250508
+execute
+delete 20240223
+delete 20240913
+delete 20240901
+execute
+execute
+add Tarea_9906 20240917
+discard
+discard
+execute
+execute
+move 20250508 20241214
+move 20241214 20251222
+execute
+execute
+execute
+execute
+move 20250317 20240216
+delete 20250701
+discard
+move 20250518 20250811
+delete 20251204
+discard
+delete 20240812
+delete 20240605
+delete 20240614
+discard
+delete 20240307
+add Tarea_9928 20241214
+add Tarea_9929 20240808
+discard
+add Tarea_9931 20240116
+add Tarea_9932 20240506
+discard
+discard
+move 20240506 20250411
+move 20240917 20250402
+discard
+move 20241214 20251213
+add Tarea_9939 20240119
+move 20250106 20240505
+discard
+move 20240505 20240414
+delete 20240414
+add Tarea_9944 20251007
+add Tarea_9945 20250210
+discard
+add Tarea_9947 20240502
+add Tarea_9948 20240208
+move 20250715 20240320
+discard
+delete 20240808
+move 20250824 20240406
+execute
+delete 20240406
+discard
+move 20240216 20241201
+execute
+delete 20240208
+add Tarea_9959 20240522
+delete 20240522
+discard
+add Tarea_9962 20240212
+execute
+execute
+execute
+execute
+add Tarea_9967 20250603
+execute
+execute
+discard
+move 20240116 20240417
+discard
+move 20241201 20250423
+discard
+add Tarea_9975 20240808
+delete 20251222
+execute
+move 20250811 20250104
+move 20251213 20240923
+move 20240912 20240707
+execute
+execute
+move 20240212 20251016
+delete 20240923
+delete 20240119
+add Tarea_9986 20251222
+discard
+execute
+execute
+delete 20250423
+discard
+add Tarea_9992 20250701
+delete 20250222
+execute
+discard
+execute
+execute
+execute
+execute
