@@ -1,4 +1,4 @@
-# 👋 Hola, soy Anibal Paez
+# 👋 Hola, soy Anibal Paez Gallego
 
 Desarrollador web full-stack con experiencia en frontend y backend.
 Técnico Superior en DAW y estudiante de Ingeniería Informática en la UNED.
