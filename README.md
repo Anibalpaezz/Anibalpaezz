@@ -43,7 +43,7 @@ Me muevo con total soltura en entornos Linux, control de versiones con Git y flu
 
 ## 🚀 Proyectos destacados
 
-- 🌐 **Portfolio personal** — Web personal con proyectos y contacto. Desarrollada con React y desplegada en Cloudfare. [anibalpaezzgallego.com](https://anibalpaezzgallego.com)
+- 🌐 **Portfolio personal** — Web personal con proyectos y contacto. Desarrollada con React y desplegada en Cloudfare. [anibalpaezzgallego.com](https://anibalpaezzgallego.com) / [anibalpg.live](anibalpg.live)
 - 🗂️ **App de gestión de stock** — Aplicación web full-stack desarrollada con React, Node.js y PostgreSQL a través de Supabase. Cubre el ciclo completo: base de datos, backend y despliegue. [Ver repositorio](#)
 
 ---
