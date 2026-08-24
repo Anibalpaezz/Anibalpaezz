@@ -1,8 +1,8 @@
 # 👋 Hola, soy Anibal Paez Gallego
 
-Desarrollador web full-stack con experiencia en frontend y backend.
-Técnico Superior en DAW y estudiante de Ingeniería Informática en la UNED.
-Me siento especialmente cómodo trabajando con bases de datos y arquitectura backend.
+Técnico Superior en Desarrollo de Aplicaciones Web (DAW) y estudiante de Ingeniería Informática en la UNED, combinando una sólida base técnica con experiencia real en la industria.
+Mi stack principal incluye React, Node.js, Java, PostgreSQL y MySQL. Cuento con experiencia desarrollando aplicaciones full-stack en entornos de producción, destacando el despliegue de una app de gestión de stock para una empresa. Actualmente, estoy potenciando mi perfil afrontando retos técnico-funcionales complejos en el sector CIB (Banca Corporativa y de Inversión) y sistemas de Trade Surveillance.
+Me muevo con total soltura en entornos Linux, control de versiones con Git y flujos de trabajo colaborativos bajo metodologías ágiles.
 
 ---
 
@@ -40,13 +40,13 @@ Me siento especialmente cómodo trabajando con bases de datos y arquitectura bac
 
 ## 🚀 Proyectos destacados
 
+- 🌐 **Portfolio personal** — Web personal con proyectos y contacto. Desarrollada con React y desplegada en Cloudfare. [anibalpaezzgallego.com](https://anibalpaezzgallego.com)
 - 🗂️ **App de gestión de stock** — Aplicación web full-stack desarrollada con React, Node.js y PostgreSQL a través de Supabase. Cubre el ciclo completo: base de datos, backend y despliegue. [Ver repositorio](#)
-- 🌐 **Portfolio personal** — Web personal con proyectos y contacto. Desarrollada con React y desplegada en Vercel. [anibalpaezgallego.vercel.app](https://anibalpaezgallego.vercel.app)
 
 ---
 
 ## 📫 Contacto
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anibalpaezgallego.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anibalpaezzgallego.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anibalpaezgallego@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anibalpg)
